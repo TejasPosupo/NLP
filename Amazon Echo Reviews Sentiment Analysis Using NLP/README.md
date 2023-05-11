@@ -3,7 +3,7 @@
 
 ## Project Explanation
 
-![Customers Churn](https://github.com/TejasPosupo/Machine_Learning_Projects/blob/ML/Telecom_churn_Prediction/Customer_Churn_Prediction_Models_in_Machine_Learning.png)
+![Customers Churn](https://github.com/TejasPosupo/NLP_Projects/blob/NLP/Amazon%20Echo%20Reviews%20Sentiment%20Analysis%20Using%20NLP/Screenshot%202023-05-11%20192404.jpg)
 
 
 
