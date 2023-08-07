@@ -1,4 +1,4 @@
-# NLP_Projects
+<h1 align="center">NLP_Projects</h1>
 
  - [Text Preprocessing](https://github.com/TejasPosupo/NLP_Projects/tree/NLP/Text_Preprocessing)
  - [Email/SMS Spam Classifier](https://github.com/TejasPosupo/NLP_Projects/tree/NLP/Email%20Spam%20Classifier)
