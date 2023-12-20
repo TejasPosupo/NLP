@@ -1,0 +1,7 @@
+pandas
+textblob
+beautifulsoup4
+requests
+nltk
+syllables
+numpy
