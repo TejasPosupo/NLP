@@ -4,7 +4,7 @@ Home  What We Think  What Jobs Will Robots Take From Humans in The Future?
 
 Data ScienceArtificial IntelligenceBig DataBusiness AnalyticsWhat We Think What Jobs Will Robots Take From Humans in The Future?
 
-By Ajay Bidyarthy -   June 25, 2021 16432 
+By Ajay Bidyarthy -   June 25, 2021 16433 
 
 
 
@@ -90,8 +90,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How machine learning will affect your business? 
-May 29, 2021 
+Incident Duration Prediction – Infrastructure and Real Estate 
+February 27, 2022 
 
 
  
@@ -99,8 +99,8 @@ May 29, 2021
 
 
 
-How Metaverse will change your life? 
-February 3, 2022 
+How Coronavirus Impact on the Hospitality Industry 
+April 30, 2020 
 
 
  
@@ -108,8 +108,8 @@ February 3, 2022
 
 
 
-How AI will impact the future of work? 
-May 26, 2021 
+How Big Data Will Impact the Future of Business? 
+July 20, 2021 
 
 
  
@@ -117,8 +117,8 @@ May 26, 2021
 
 
 
-Gaming Disorder and Effects of Gaming on Health. 
-June 17, 2020 
+Airbnb & Homeaway Pricing Recommendation 
+March 14, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -126,25 +126,25 @@ June 17, 2020
 
 
  
-How does Metaverse work in the Financial Sector?
+Management challenges for future digitalization of healthcare services
 
  
 
 
 
  
-Coronavirus impact on energy markets
+Design and develop a retool app that will show stock and...
 
  
 
 
 
  
-A web-based dashboard for the filtered data retrieval of land records
+An agent-based model of a Virtual Power Plant (VPP)
 
  
 
 
 
  
-AI-Based Algorithmic Trading Bot for Forex
+Steps to Meta-Analysis

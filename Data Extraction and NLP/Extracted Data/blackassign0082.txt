@@ -4,7 +4,7 @@ Home  What We Think  Online gaming: Adolescent online gaming effects demotivated
 
 BlackcofferData ScienceMachine LearningWhat We Think Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic symptoms.
 
-By Ajay Bidyarthy -   June 23, 2020 13939 
+By Ajay Bidyarthy -   June 23, 2020 13940 
 
 
 
@@ -83,8 +83,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Solution for Contact Centre Problems 
-April 26, 2021 
+PHP Technology Framework 
+April 4, 2019 
 
 
  
@@ -92,8 +92,8 @@ April 26, 2021
 
 
 
-Statistical Simulation 
-March 14, 2021 
+Healthcare Data Analysis 
+August 22, 2021 
 
 
  
@@ -101,8 +101,8 @@ March 14, 2021
 
 
 
-Role of Big Data in Healthcare 
-May 26, 2017 
+New Jersey Based Micro Business Sentiment Analysis 
+August 23, 2020 
 
 
  
@@ -110,8 +110,8 @@ May 26, 2017
 
 
 
-IoT & AI/ML Solution for Construction and builders – apartment, commercial... 
-January 22, 2020 
+How to access Amazon Seller Central or Vendor Central data in... 
+March 3, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -119,25 +119,25 @@ January 22, 2020
 
 
  
-Google Data Studio Dashboard for Marketing, ads and Traction data
+SurveyMonkey Business Questioner Report using Power BI
 
  
 
 
 
  
-How advanced analytics are redefining banking?
+AI Conversational Bot using RASA
 
  
 
 
 
  
-Human Rights Outlook
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and...
 
  
 
 
 
  
-Will machine replace the human in the future of work?
+Evaluating Logistic Regression Models

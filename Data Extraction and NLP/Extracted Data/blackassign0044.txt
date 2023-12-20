@@ -4,7 +4,7 @@ Home  What We Think  How machine learning used in finance and banking?
 
 BFSIBanksFinance & AccountingWhat We Think How machine learning used in finance and banking?
 
-By Ajay Bidyarthy -   May 27, 2021 14388 
+By Ajay Bidyarthy -   May 27, 2021 14389 
 
 
 
@@ -70,8 +70,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Will Machine Replace The Human in the Future of Work? 
-June 25, 2021 
+Google LSA API Data Automation and Dashboarding 
+August 22, 2021 
 
 
  
@@ -79,8 +79,8 @@ June 25, 2021
 
 
 
-The 8 Steps of AI/ML Project 
-January 14, 2020 
+Ranking customer behaviours for business strategy 
+December 31, 2022 
 
 
  
@@ -88,8 +88,8 @@ January 14, 2020
 
 
 
-Role of big data & analytics in banking and finance 
-June 1, 2019 
+Problems faced by students in online classes during COVID-19 
+December 7, 2021 
 
 
  
@@ -97,8 +97,8 @@ June 1, 2019
 
 
 
-What is the future of mobile apps? 
-February 12, 2021 
+Google Data Studio Pipeline with GCP/MySQL 
+September 18, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -106,25 +106,25 @@ February 12, 2021
 
 
  
+New Jersey Based Micro Business Sentiment Analysis
+
+ 
+
+
+
+ 
+What if the Creation is Taking Over the Creator?
+
+ 
+
+
+
+ 
+Elastic Kibana Specialist to Create Dashboard & Visualization
+
+ 
+
+
+
+ 
 COVID-19: How have countries been responding?
-
- 
-
-
-
- 
-Impact of COVID-19 pandemic on entertainment industries such as theaters.
-
- 
-
-
-
- 
-Replacing existing pavement roads, parking lots and sidewalks with pavement made...
-
- 
-
-
-
- 
-Golden Record – A knowledge graph database approach to unfold discovery...

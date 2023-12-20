@@ -4,7 +4,7 @@ Home  What We Think  What is the future of mobile apps?
 
 BlackcofferData ScienceBusiness AnalyticsWhat We ThinkData Visualization What is the future of mobile apps?
 
-By Ajay Bidyarthy -   February 12, 2021 14540 
+By Ajay Bidyarthy -   February 12, 2021 14541 
 
 
 
@@ -107,8 +107,8 @@ MOST POPULAR INSIGHTS
 
 
 
-The rise of the OTT platform and its impact on the... 
-August 17, 2023 
+Auvik, Connectwise integration in Grafana 
+July 13, 2022 
 
 
  
@@ -116,8 +116,8 @@ August 17, 2023
 
 
 
-Which one is better AI or big data? 
-July 19, 2021 
+Get Answers from Structural Equation Modeling 
+April 12, 2019 
 
 
  
@@ -125,8 +125,8 @@ July 19, 2021
 
 
 
-Communication with Twilio-Flex 
-January 16, 2020 
+Sentiment Analysis Bot for Price Prediction 
+March 10, 2021 
 
 
  
@@ -134,8 +134,8 @@ January 16, 2020
 
 
 
-Business Analytics In The Healthcare Industry 
-July 19, 2019 
+How Data Analytics and AI are used to halt the COVID-19... 
+April 30, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -143,25 +143,25 @@ July 19, 2019
 
 
  
-Advanced-Data Analytics, AI, and ML for News and Media Companies
+Solution for Contact Centre Problems
 
  
 
 
 
  
-Clinical Trial: Big Data & Analytics
+Advanced Textual Analytics – Financial Analysis Industry
 
  
 
 
 
  
-Will technology eliminate the need for animal testing in drug development?
+Power BI integration with RestAPI, and SAML Integration
 
  
 
 
 
  
-How Telehealth and Telemedicine helping people to fight against COVID-19
+Design & Develop BERT Question Answering model explanations with visualization

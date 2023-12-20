@@ -4,7 +4,7 @@ Home  What We Think  How humans and machines are evolving to work together?
 
 Data ScienceArtificial IntelligenceBig DataWhat We Think How humans and machines are evolving to work together?
 
-By Ajay Bidyarthy -   June 24, 2021 15739 
+By Ajay Bidyarthy -   June 24, 2021 15740 
 
 
 
@@ -69,8 +69,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Due to the COVID-19 the repercussion of the environment 
-June 18, 2020 
+Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in... 
+March 16, 2021 
 
 
  
@@ -78,8 +78,8 @@ June 18, 2020
 
 
 
-Splitting of Songs into its Vocals and Instrumental 
-September 4, 2021 
+What are the key policies that will mitigate the impacts of... 
+April 28, 2020 
 
 
  
@@ -87,8 +87,8 @@ September 4, 2021
 
 
 
-Is big data the same as AI? 
-July 20, 2021 
+Return on Advertising Spend Dashboard: Marketing Automation and Analytics using ETL... 
+July 21, 2023 
 
 
  
@@ -96,8 +96,8 @@ July 20, 2021
 
 
 
-Modeling & Simulation for Drug Development & Formulation 
-January 9, 2019 
+Solution for Contact Centre Problems 
+April 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -105,25 +105,25 @@ January 9, 2019
 
 
  
-Monday.com to KPI Dashboard to manage, view, and generate insights from...
+Role of Big Data in Cyber Security: A Shotgun Against Rising...
 
  
 
 
 
  
-Gaming Disorder and Effects of Gaming on Health.
+What is Data Exfiltration?
 
  
 
 
 
  
-IoT & AI/ML Descriptive Solution Outline
+Data Warehouse to Google Data Studio (Looker) Dashboard
 
  
 
 
 
  
-Lessons from the past: Some key learnings relevant to the coronavirus...
+Estimating the impact of COVID-19 on the world of work

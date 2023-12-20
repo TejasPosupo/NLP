@@ -4,7 +4,7 @@ Home  What We Think  Rising IT Cities and Their Impact on the Economy, Environme
 
 What We ThinkFuturePrediction Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure, and City Life in Future
 
-By Ajay Bidyarthy -   August 18, 2023 755 
+By Ajay Bidyarthy -   August 18, 2023 758 
 
 
 
@@ -81,8 +81,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Statistical Methods for Sales Forecasting in Retail Industry 
-May 24, 2017 
+An ETL Solution for Currency Data to Google Big Query 
+September 16, 2022 
 
 
  
@@ -90,8 +90,8 @@ May 24, 2017
 
 
 
-Traceability of information – Master your data capital 
-June 13, 2019 
+Can You Be Great Leader Without Technical Expertise 
+September 22, 2020 
 
 
  
@@ -108,8 +108,8 @@ January 13, 2021
 
 
 
-Data Warehouse to Google Data Studio (Looker) Dashboard 
-July 29, 2023 
+Real-Time sentiment analysis tool – Retail Industry 
+July 6, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -117,25 +117,25 @@ July 29, 2023
 
 
  
-Data Management for a Political SaaS Application
+Are we any closer to preventing a nuclear holocaust?
 
  
 
 
 
  
-Data Warehouse to Google Data Studio (Looker) Dashboard
+Estimating the impact of COVID-19 on the world of work
 
  
 
 
 
  
-Impact of newly discovered coronavirus on the Global Economy
+AI in healthcare to Improve Patient Outcomes
 
  
 
 
 
  
-Oil prices by the year 2040, and how it will impact...
+Big Data Analytic in Construction & Real Estate

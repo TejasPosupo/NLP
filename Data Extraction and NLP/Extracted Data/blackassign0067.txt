@@ -4,7 +4,7 @@ Home  What We Think  Why does your business need a chatbot?
 
 Data ScienceArtificial IntelligenceBlackcofferWhat We Think Why does your business need a chatbot?
 
-By Ajay Bidyarthy -   September 22, 2020 14254 
+By Ajay Bidyarthy -   September 22, 2020 14255 
 
 
 
@@ -79,8 +79,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch 
-June 25, 2021 
+A web-based dashboard for the filtered data retrieval of land records 
+September 15, 2022 
 
 
  
@@ -88,8 +88,8 @@ June 25, 2021
 
 
 
-Big Data and Analytics to Help form Political Leaders Win Election 
-April 13, 2019 
+Turning the Professional Networking Data into Actionable Insights 
+October 6, 2020 
 
 
  
@@ -97,8 +97,8 @@ April 13, 2019
 
 
 
-Business Analytics in Textile Industry (Raymond Ltd.) 
-June 25, 2018 
+Using Graph Technology to Create Single Customer View. 
+July 21, 2023 
 
 
  
@@ -106,8 +106,8 @@ June 25, 2018
 
 
 
-Digital Transformation in Oil and Gas 
-February 26, 2018 
+Audify Music Player Website in MERN Stack 
+March 14, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -115,25 +115,25 @@ February 26, 2018
 
 
  
-Rise of Internet Demand and Its Impact on Communications and Alternatives...
+AI in healthcare to Improve Patient Outcomes
 
  
 
 
 
  
-How AI will help the Defense Power of a country?
+Rise of Cybercrime and its Effect by the Year 2040.
 
  
 
 
 
  
-AI and its impact on the Fashion Industry
+ELK Stack – Elastic Queries
 
  
 
 
 
  
-Advanced AI for Handgun Detection
+Real-time dashboard to monitor infrastructure activity and Machines

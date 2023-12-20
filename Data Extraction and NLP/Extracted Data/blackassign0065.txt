@@ -4,7 +4,7 @@ Home  What We Think  Will we ever colonize outer space?
 
 BlackcofferFutureForecastsWhat We ThinkPrediction Will we ever colonize outer space?
 
-By Ajay Bidyarthy -   October 22, 2020 14191 
+By Ajay Bidyarthy -   October 22, 2020 14192 
 
 
 
@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch 
-June 25, 2021 
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
+July 26, 2023 
 
 
  
@@ -95,8 +95,8 @@ June 25, 2021
 
 
 
-CallRail, Analytics & Leads Report Alert 
-August 30, 2021 
+Central School System Logistics Optimization 
+September 27, 2019 
 
 
  
@@ -104,8 +104,8 @@ August 30, 2021
 
 
 
-Problems faced by students in online classes during COVID-19 
-December 7, 2021 
+Google LSA API Data Automation and Dashboarding 
+August 22, 2021 
 
 
  
@@ -113,8 +113,8 @@ December 7, 2021
 
 
 
-Electric Vehicles (EV) Load Management System to Forecast Energy Demand 
-February 26, 2022 
+AI solution for a Technology, Information and Internet firm 
+July 26, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ February 26, 2022
 
 
  
-Healthcare Data Analysis
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-Grafana Dashboard – Oscar Awards
+Confirmatory Path Analysis (CFA)
 
  
 
 
 
  
-Integration of a product to a cloud-based CRM platform
+CRM, Monday.com via Zapier to Power BI Dashboard
 
  
 
 
 
  
-AWS QuickSight Reporting Dashboard
+Interpret the Coefficients in Regression Models

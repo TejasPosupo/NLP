@@ -4,7 +4,7 @@ Home  What We Think  What patients like and dislike about telemedicine?
 
 BlackcofferWhat We ThinkFuturePrediction What patients like and dislike about telemedicine?
 
-By Ajay Bidyarthy -   January 13, 2021 14440 
+By Ajay Bidyarthy -   January 13, 2021 14441 
 
 
 
@@ -67,8 +67,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Confirmatory Path Analysis (CFA) 
-April 12, 2019 
+IoT, AI, ML to Detect Fire and Smoke 
+June 17, 2020 
 
 
  
@@ -76,8 +76,8 @@ April 12, 2019
 
 
 
-Car Parking Management System 
-June 12, 2019 
+Sentimental Analysis on Shareholder Letter of Companies 
+August 22, 2021 
 
 
  
@@ -85,8 +85,8 @@ June 12, 2019
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+How will COVID-19 affect the world of work? 
+April 29, 2020 
 
 
  
@@ -94,8 +94,8 @@ August 16, 2023
 
 
 
-Due to the COVID-19 the repercussion of the environment 
-June 18, 2020 
+How Coronavirus Impact on the Hospitality Industry 
+April 30, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -103,25 +103,25 @@ June 18, 2020
 
 
  
-Coronavirus impact on energy markets
+Rise of cybercrime and its effect by the year 2040.
 
  
 
 
 
  
-Are we any closer to preventing a nuclear holocaust?
+Data Management – EGEAS
 
  
 
 
 
  
-Coronavirus: Impact on the Hospitality Industry
+Communication with Twilio-Flex
 
  
 
 
 
  
-Deploy MERN to google app engine, google cloud platform
+AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech...

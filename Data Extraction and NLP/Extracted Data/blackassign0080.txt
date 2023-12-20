@@ -4,7 +4,7 @@ Home  What We Think  Impact of COVID-19 pandemic on sports events around the wor
 
 BlackcofferWhat We ThinkEntertainment Impact of COVID-19 pandemic on sports events around the world.
 
-By Ajay Bidyarthy -   June 23, 2020 13467 
+By Ajay Bidyarthy -   June 23, 2020 13468 
 
 
 
@@ -285,8 +285,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Marketing Tool to Notify Leads to Clients over Email and Phone 
-August 30, 2021 
+Payroll Analytics 
+October 3, 2020 
 
 
  
@@ -294,8 +294,8 @@ August 30, 2021
 
 
 
-IoT & AI/ML Solution for Gas Stations 
-January 22, 2020 
+From Utopia to Reality: Marketing and the Big Data Revolution 
+June 13, 2018 
 
 
  
@@ -303,8 +303,8 @@ January 22, 2020
 
 
 
-Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J... 
-March 27, 2021 
+Problems faced by students in online classes during COVID-19 
+December 7, 2021 
 
 
  
@@ -312,8 +312,8 @@ March 27, 2021
 
 
 
-Lessons from the past: Some key learnings relevant to the coronavirus... 
-April 29, 2020 
+Datawarehouse, and Recommendations Engine for AirBNB 
+September 4, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -321,25 +321,25 @@ April 29, 2020
 
 
  
-How prepared is India to tackle a possible COVID-19 outbreak?
+The Future of Bank Risk Management
 
  
 
 
 
  
-Political Intelligence Database
+Replacing existing pavement roads, parking lots and sidewalks with pavement made...
 
  
 
 
 
  
-Plaid Financial Analytics – A Data-Driven Dashboard to generate insights
+Estimating the impact of COVID-19 on the world of work
 
  
 
 
 
  
-Statistical Data Analysis of Reinforced Concrete
+The Emergence of Data Analytics

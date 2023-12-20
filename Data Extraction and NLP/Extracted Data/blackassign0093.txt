@@ -4,7 +4,7 @@ Home  What We Think  Travel and Tourism Outlook
 
 FutureFuturistWhat We Think Travel and Tourism Outlook
 
-By Ajay Bidyarthy -   June 17, 2020 13274 
+By Ajay Bidyarthy -   June 17, 2020 13275 
 
 
 
@@ -70,8 +70,8 @@ MOST POPULAR INSIGHTS
 
 
 
-OCR (Optical Character Recognition) 
-September 24, 2019 
+Big Data Integration & Infrastructure Solution 
+November 5, 2018 
 
 
  
@@ -79,8 +79,8 @@ September 24, 2019
 
 
 
-Is telemedicine effective in treating patients? 
-April 28, 2022 
+Accounts Payables Analytics 
+October 3, 2020 
 
 
  
@@ -88,8 +88,8 @@ April 28, 2022
 
 
 
-Entertainment Music Player User Analytics and Recommendations 
-March 23, 2021 
+Big Data & Analytics to Bring Transparency and Good Governance 
+April 19, 2019 
 
 
  
@@ -97,8 +97,8 @@ March 23, 2021
 
 
 
-Rising IT cities and its impact on the economy, environment, infrastructure,... 
-August 24, 2023 
+The future of Telehealth services. 
+April 26, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -106,25 +106,25 @@ August 24, 2023
 
 
  
-ETL Pipeline
+Marketing Mix Data Analysis
 
  
 
 
 
  
-Impact of COVID-19 on Engineering and Medical College during this pandemic...
+Design and develop MLops framework for Data-centric AI
 
  
 
 
 
  
-How does Big Data Help in Finance and the Growth of...
+AI agent development and Deployment in Jina AI
 
  
 
 
 
  
-Healthcare Data Dashboard in Kibana
+Impacts of COVID 19 on Streets Sides Food Stalls

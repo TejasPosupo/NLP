@@ -4,7 +4,7 @@ Home  What We Think  How AI will impact the future of work?
 
 Data ScienceAnalyticsArtificial IntelligenceBlackcofferWhat We Think How AI will impact the future of work?
 
-By Ajay Bidyarthy -   May 26, 2021 14987 
+By Ajay Bidyarthy -   May 26, 2021 14988 
 
 
 
@@ -66,8 +66,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Will we ever understand the nature of consciousness? 
-October 22, 2020 
+Marketing Analytics – Why do we care about it? 
+April 30, 2019 
 
 
  
@@ -75,8 +75,8 @@ October 22, 2020
 
 
 
-How is AI used to solve traffic management? 
-August 26, 2021 
+AI, ML, and IoT driven Entry Management and Monitoring 
+June 19, 2020 
 
 
  
@@ -84,8 +84,8 @@ August 26, 2021
 
 
 
-Website Tracking and Insights using Google Analytics, & Google Tag Manager 
-July 1, 2022 
+Deep learning impact on areas of e-learning? 
+May 29, 2021 
 
 
  
@@ -93,8 +93,8 @@ July 1, 2022
 
 
 
-Big Data Problem & Solutions 
-July 4, 2019 
+Changing landscape and emerging trends in the Indian IT/ITeS Industry. 
+June 22, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -102,25 +102,25 @@ July 4, 2019
 
 
  
-How AI will help the Defense Power of a country?
+Is big data the same as AI?
 
  
 
 
 
  
-Statistical Simulation
+Automate the Data Management Process
 
  
 
 
 
  
-Clinical Trial: Big Data & Analytics
+MetaBridges API Decentraland Integration – AR, VR
 
  
 
 
 
  
-How are genetic sequencing maps affected by deep learning and AI?
+COVID-19: How have countries been responding?

@@ -4,7 +4,7 @@ Home  What We Think  The rise of the OTT platform and its impact on the entertai
 
 Data ScienceArtificial IntelligenceData VisualizationFutureForecastsWhat We ThinkInternet of ThingsMachine Learning The rise of the OTT platform and its impact on the entertainment industry by 2040.
 
-By Ajay Bidyarthy -   August 17, 2023 800 
+By Ajay Bidyarthy -   August 17, 2023 802 
 
 
 
@@ -106,8 +106,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Understanding the Millennial Market 
-April 25, 2018 
+IMPACT OF COVID-19 ON THE GLOBAL ECONOMY 
+April 13, 2020 
 
 
  
@@ -115,8 +115,8 @@ April 25, 2018
 
 
 
-Grafana Dashboard – Oscar Awards 
-July 8, 2023 
+How advertisement increase your market value? 
+November 20, 2022 
 
 
  
@@ -124,8 +124,8 @@ July 8, 2023
 
 
 
-AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
-July 26, 2023 
+Impact of COVID-19 on Engineering and Medical College during this pandemic... 
+December 7, 2021 
 
 
  
@@ -133,8 +133,8 @@ July 26, 2023
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+Impact of newly discovered coronavirus on the Global Economy 
+April 12, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -142,25 +142,25 @@ August 16, 2023
 
 
  
-Data integration and big data performance using Elasticsearch
+Google LSA API Data Automation and Dashboarding
 
  
 
 
 
  
-Traction Dashboards of Marketing Campaigns and Posts
+Deploy MERN to google app engine, google cloud platform
 
  
 
 
 
  
-A web-based dashboard for the filtered data retrieval of land records
+Impacts of COVID 19 on Streets Sides Food Stalls
 
  
 
 
 
  
-Real life data analysis on stationary and non-stationary Time Series
+How machine learning will affect your business?

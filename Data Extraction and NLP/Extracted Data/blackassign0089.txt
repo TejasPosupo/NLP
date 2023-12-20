@@ -4,7 +4,7 @@ Home  What We Think  COVID-19 Impact on Hospitality Industry
 
 BlackcofferWhat We ThinkHealthcare COVID-19 Impact on Hospitality Industry
 
-By Ajay Bidyarthy -   May 1, 2020 13415 
+By Ajay Bidyarthy -   May 1, 2020 13416 
 
 
 
@@ -95,8 +95,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Coronavirus: Impact on the Hospitality Industry 
-May 1, 2020 
+An agent-based model of a Virtual Power Plant (VPP) 
+September 15, 2022 
 
 
  
@@ -104,8 +104,8 @@ May 1, 2020
 
 
 
-Creating a custom report and dashboard using the data got from... 
-January 16, 2022 
+Realtime Kibana Dashboard for a financial tech firm 
+August 8, 2023 
 
 
  
@@ -113,8 +113,8 @@ January 16, 2022
 
 
 
-Lessons from the past: Some key learnings relevant to the coronavirus... 
-May 1, 2020 
+Recommendation Engine for Insurance Sector to Expand Business in the Rural... 
+July 29, 2023 
 
 
  
@@ -122,8 +122,8 @@ May 1, 2020
 
 
 
-Prediction Model for Online Casino 
-April 5, 2021 
+Data science – Create Tailored algorithms 
+June 14, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -131,25 +131,25 @@ April 5, 2021
 
 
  
-Get Answers from Structural Equation Modeling
+Why scams like Nirav Modi Happen with Indian banks?
 
  
 
 
 
  
-Deploy MERN to google app engine, google cloud platform
+Dashboard to track the analytics of the website using Google Analytics...
 
  
 
 
 
  
-Impacts of COVID 19 on Food products
+Data Integration for Marketers
 
  
 
 
 
  
-Future of Work: Robot, AI and Automation
+Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic...

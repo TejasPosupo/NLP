@@ -4,7 +4,7 @@ Home  What We Think  How you lead a project or a team without any technical expe
 
 BlackcofferData ScienceStatisticsWhat We Think How you lead a project or a team without any technical expertise?
 
-By Ajay Bidyarthy -   September 22, 2020 14120 
+By Ajay Bidyarthy -   September 22, 2020 14121 
 
 
 
@@ -71,16 +71,7 @@ MOST POPULAR INSIGHTS
 
 
 
-Student Database Management System 
-February 18, 2019 
-
-
- 
-
-
-
-
-Web Data Connector 
+Portfolio: Website, Dashboard, SaaS Applications, Web Apps 
 July 13, 2022 
 
 
@@ -89,8 +80,8 @@ July 13, 2022
 
 
 
-Integration of a product to a cloud-based CRM platform 
-September 15, 2022 
+Healthcare Data Dashboard in Kibana 
+May 15, 2021 
 
 
  
@@ -98,18 +89,20 @@ September 15, 2022
 
 
 
-Why scams like Nirav Modi Happen with Indian banks? 
-April 12, 2020 
+Deploy MERN to google app engine, google cloud platform 
+May 16, 2021 
+
+
+ 
+
+
+
+
+Are Customer Analytics Driving Big Data Initiatives? 
+July 31, 2017 
 
 
  Load more RECOMMENDED INSIGHTS
-
-
-
- 
-How to increase social media engagement for marketers?
-
- 
 
 
 
@@ -121,11 +114,18 @@ Lessons from the past: Some key learnings relevant to the coronavirus...
 
 
  
-Structural Equation Modeling (SEM)
+How Metaverse and VR can reform work culture?
 
  
 
 
 
  
-Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+How AI will change the World?
+
+ 
+
+
+
+ 
+Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J...

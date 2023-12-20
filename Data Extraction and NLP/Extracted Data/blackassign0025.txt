@@ -4,7 +4,7 @@ Home  What We Think  Rise of Electric Vehicles and its Impact on Livelihood by 2
 
 EnergyDataOilWhat We ThinkOil & GasPetroleum Rise of Electric Vehicles and its Impact on Livelihood by 2040
 
-By Ajay Bidyarthy -   August 22, 2022 4638 
+By Ajay Bidyarthy -   August 22, 2022 4639 
 
 
 
@@ -76,8 +76,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Will we ever understand the nature of consciousness? 
-October 22, 2020 
+AI Conversational Bot using RASA 
+February 19, 2022 
 
 
  
@@ -85,17 +85,8 @@ October 22, 2020
 
 
 
-How does AI help to monitor Retail Shelf watches? 
-September 28, 2021 
-
-
- 
-
-
-
-
-How Artificial Intelligence can deliver real value to companies? 
-October 15, 2018 
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard 
+August 6, 2023 
 
 
  
@@ -104,7 +95,16 @@ October 15, 2018
 
 
 COVID-19: How have countries been responding? 
-April 29, 2020 
+April 30, 2020 
+
+
+ 
+
+
+
+
+Analytics in Healthcare Industry 
+July 4, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -112,25 +112,25 @@ April 29, 2020
 
 
  
-Impact of AI in health and medicine
+AutoGPT Setup
 
  
 
 
 
  
-New Jersey Based Micro Business Sentiment Analysis
+How artificial intelligence can boost your productivity level?
 
  
 
 
 
  
-Add SPF Record, Cpanel, Bigrock
+Business Analytics In The Healthcare Industry
 
  
 
 
 
  
-Off-Page SEO
+Analytics Advantages in Broadcasting Industry

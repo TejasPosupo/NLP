@@ -4,7 +4,7 @@ Home  What We Think  OTT platform and its impact on the entertainment industry i
 
 EntertainmentBroadcastingWhat We ThinkFuture OTT platform and its impact on the entertainment industry in Future.
 
-By Ajay Bidyarthy -   August 17, 2023 576 
+By Ajay Bidyarthy -   August 17, 2023 577 
 
 
 
@@ -76,8 +76,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Data Analytics Solution for the Hospitality Industry 
-March 17, 2020 
+Interpret the Coefficients in Regression Models 
+April 4, 2019 
 
 
  
@@ -85,8 +85,8 @@ March 17, 2020
 
 
 
-IOT, AI, ML for Machine Tracking 
-June 19, 2020 
+Google Local Service Ads (LSA) Leads Dashboard 
+February 14, 2022 
 
 
  
@@ -94,8 +94,8 @@ June 19, 2020
 
 
 
-What is the repercussion of the environment due to the COVID-19... 
-June 18, 2020 
+Integration of a product to a cloud-based CRM platform 
+September 15, 2022 
 
 
  
@@ -103,8 +103,8 @@ June 18, 2020
 
 
 
-Big Data Analytics through IoT in Oil and Gas Industry 
-September 10, 2018 
+The future of Telehealth services. 
+April 26, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -112,25 +112,25 @@ September 10, 2018
 
 
  
-Car Detection in Satellite Images
+Integration of Python and Power BI, Python as an External Tool...
 
  
 
 
 
  
-What is the limitation of e-learning classes?
+Equity Waterfalls Model-Based SaaS Application for Real Estate Sector
 
  
 
 
 
  
-Solution for Contact Centre Problems
+Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,...
 
  
 
 
 
  
-AWS QuickSight Reporting Dashboard
+Solution to quadratic assignment problems (QAP) using Ant Colony System

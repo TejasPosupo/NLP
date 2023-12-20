@@ -4,7 +4,7 @@ Home  What We Think  Will Machine Replace The Human in the Future of Work?
 
 Data ScienceAnalyticsArtificial IntelligenceBig DataMachine LearningWhat We Think Will Machine Replace The Human in the Future of Work?
 
-By Ajay Bidyarthy -   June 25, 2021 16845 
+By Ajay Bidyarthy -   June 25, 2021 16846 
 
 
 
@@ -96,8 +96,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How will COVID-19 affect the world of work? 
-April 30, 2020 
+MetaBridges API Decentraland Integration – AR, VR 
+January 24, 2022 
 
 
  
@@ -105,8 +105,8 @@ April 30, 2020
 
 
 
-Marketing Analytics to Automate Leads Call Status and Reporting 
-August 30, 2021 
+Website Tracking and Insights using Google Analytics, & Google Tag Manager 
+July 1, 2022 
 
 
  
@@ -114,8 +114,8 @@ August 30, 2021
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-April 30, 2020 
+Clinical Trial: Big Data & Analytics 
+May 22, 2019 
 
 
  
@@ -123,8 +123,8 @@ April 30, 2020
 
 
 
-Lessons from the past: Some key learnings relevant to the coronavirus... 
-May 1, 2020 
+An ETL Solution for Currency Data to Google Big Query 
+September 16, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -132,25 +132,25 @@ May 1, 2020
 
 
  
-Negative effects of marketing on society
+AI-Based Algorithmic Trading Bot for Forex
 
  
 
 
 
  
-PHP Technology Framework
+Big Data solution to an online multivendor marketplace eCommerce business
 
  
 
 
 
  
-Impact of COVID-19 pandemic on entertainment industries such as theaters.
+Google LSA API Data Automation and Dashboarding
 
  
 
 
 
  
-What is the repercussion of the environment due to the COVID-19...
+How Political Leaders will Shape Tomorrow using Big Data & Analytics

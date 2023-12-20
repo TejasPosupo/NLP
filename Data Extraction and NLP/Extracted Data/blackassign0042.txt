@@ -4,7 +4,7 @@ Home  What We Think  How AI will change the World?
 
 Data ScienceArtificial IntelligenceBig DataMachine LearningWhat We Think How AI will change the World?
 
-By Ajay Bidyarthy -   May 29, 2021 14355 
+By Ajay Bidyarthy -   May 29, 2021 14356 
 
 
 
@@ -104,8 +104,8 @@ MOST POPULAR INSIGHTS
 
 
 
-A Leading Hospitality Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+How are genetic sequencing maps affected by deep learning and AI? 
+August 26, 2021 
 
 
  
@@ -113,8 +113,8 @@ September 5, 2021
 
 
 
-What patients like and dislike about telemedicine? 
-January 13, 2021 
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio) 
+July 26, 2023 
 
 
  
@@ -122,8 +122,8 @@ January 13, 2021
 
 
 
-What is the chance Homo sapiens will survive for the next... 
-October 22, 2020 
+Transalta: Migration of servers from VMware to AWS Client 
+January 16, 2020 
 
 
  
@@ -131,8 +131,8 @@ October 22, 2020
 
 
 
-Rising IT cities and its impact on the economy, environment, infrastructure,... 
-August 24, 2023 
+Rise of Cybercrime and its Effect by the Year 2040. 
+August 16, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -140,25 +140,25 @@ August 24, 2023
 
 
  
-Big Data Analytics through IoT in Oil and Gas Industry
+Estimating the impact of COVID-19 on the world of work
 
  
 
 
 
  
-Central School System Logistics Optimization
+Data science – Create Tailored algorithms
 
  
 
 
 
  
-Elastic Kibana Specialist to Create Dashboard & Visualization
+Coronavirus: Impact on the Hospitality Industry
 
  
 
 
 
  
-How AI will impact the future of work?
+Political Intelligence Database

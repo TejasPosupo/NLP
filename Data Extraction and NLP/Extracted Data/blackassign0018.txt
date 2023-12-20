@@ -4,7 +4,7 @@ Home  What We Think  Rise of e-health and its impact on humans by the year 2030
 
 FutureForecastsWhat We ThinkHealthcareHealth Care Equipment & Services Rise of e-health and its impact on humans by the year 2030
 
-By Ajay Bidyarthy -   December 29, 2022 4804 
+By Ajay Bidyarthy -   December 29, 2022 4805 
 
 
 
@@ -82,8 +82,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Do Ethnic differences possibly influence the risk of Multiple Sclerosis development... 
-June 4, 2019 
+How we forecast future technologies? 
+January 13, 2021 
 
 
  
@@ -91,8 +91,8 @@ June 4, 2019
 
 
 
-How big data & analytics is helping fashion e-tailers to capture... 
-March 24, 2018 
+Contribution of handicrafts (Visual Arts & Literature) in the Indian economy 
+June 22, 2020 
 
 
  
@@ -100,8 +100,8 @@ March 24, 2018
 
 
 
-IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
-January 22, 2020 
+NLP-based Approach for Data Transformation 
+July 29, 2023 
 
 
  
@@ -109,8 +109,8 @@ January 22, 2020
 
 
 
-Construction Accounts Payable / Payroll Analytics in POWER BI 
-March 14, 2021 
+Big Data Analytics in Healthcare 
+July 19, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -118,25 +118,25 @@ March 14, 2021
 
 
  
-Rise of telemedicine and its Impact on Livelihood by 2040
+Human Rights Outlook
 
  
 
 
 
  
-Will we ever understand the nature of consciousness?
+How to Connect a Domain and Install WordPress on Microsoft Azure
 
  
 
 
 
  
-Is big data the same as AI?
+Deploy and view React app(Nextjs) on cloud VM such as GCP,...
 
  
 
 
 
  
-The Future of Bank Risk Management
+Design and develop solution to anomaly detection classification problems

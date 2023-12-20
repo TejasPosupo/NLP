@@ -4,7 +4,7 @@ Home  What We Think  Environmental impact of the COVID-19 pandemic – Lesson fo
 
 Data ScienceAnalyticsBlackcofferWhat We ThinkHealthcare Environmental impact of the COVID-19 pandemic – Lesson for the Future
 
-By Ajay Bidyarthy -   April 30, 2021 14262 
+By Ajay Bidyarthy -   April 30, 2021 14263 
 
 
 
@@ -81,8 +81,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-April 30, 2020 
+The Prospective Recipe of Success in the Age of Analytics 
+October 8, 2018 
 
 
  
@@ -90,8 +90,8 @@ April 30, 2020
 
 
 
-The Future of Bank Risk Management 
-June 1, 2019 
+Deep learning impact on areas of e-learning? 
+May 29, 2021 
 
 
  
@@ -99,8 +99,8 @@ June 1, 2019
 
 
 
-Audify Music Player Website in MERN Stack 
-March 14, 2021 
+Data Driven Dashboards, Foundation and Application in Industry 
+May 26, 2017 
 
 
  
@@ -108,8 +108,8 @@ March 14, 2021
 
 
 
-Statistical Methods for Sales Forecasting in Retail Industry 
-May 24, 2017 
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc… 
+July 21, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -117,25 +117,25 @@ May 24, 2017
 
 
  
-Financial Modeling of the Investment Management Professionals
+Design & Develop BERT Question Answering model explanations with visualization
 
  
 
 
 
  
-How humans and machines are evolving to work together?
+AI Conversational Bot using RASA
 
  
 
 
 
  
-Will machine replace the human in the future of work?
+Is telemedicine effective in treating patients?
 
  
 
 
 
  
-Car Detection in Satellite Images
+How does marketing influence businesses and consumers?

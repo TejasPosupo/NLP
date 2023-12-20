@@ -4,7 +4,7 @@ Home  What We Think  Oil prices by the year 2040, and how it will impact the...
 
 BFSICapital MarketsWhat We ThinkData Science Oil prices by the year 2040, and how it will impact the world economy.
 
-By Ajay Bidyarthy -   August 20, 2022 4504 
+By Ajay Bidyarthy -   August 20, 2022 4505 
 
 
 
@@ -71,8 +71,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Confirmatory Path Analysis (CFA) 
-April 12, 2019 
+How is Login Logout Time Tracking for Employees in Office done... 
+September 28, 2021 
 
 
  
@@ -80,8 +80,8 @@ April 12, 2019
 
 
 
-Construction Accounts Payable / Payroll Analytics in POWER BI 
-March 14, 2021 
+Changing landscape and emerging trends in the Indian IT/ITeS Industry. 
+June 22, 2020 
 
 
  
@@ -89,8 +89,8 @@ March 14, 2021
 
 
 
-Database Normalization & Segmentation with Google Data Studio Dashboard Insights 
-February 27, 2022 
+AI/ML and Predictive Modeling 
+February 3, 2022 
 
 
  
@@ -98,7 +98,7 @@ February 27, 2022
 
 
 
-Travel and Tourism Outlook 
+Gaming Disorder and Effects of Gaming on Health. 
 June 17, 2020 
 
 
@@ -107,25 +107,25 @@ June 17, 2020
 
 
  
-Real-Time sentiment analysis tool – Retail Industry
+Creating a custom report and dashboard using the data got from...
 
  
 
 
 
  
-Role of big data & analytics in banking and finance
+An app for updating the email id of the user and...
 
  
 
 
 
  
-Marketing Ads Leads Call Status Data Tool to BigQuery
+Big Data and Analytics to Help form Political Leaders Win Election
 
  
 
 
 
  
-OCR – Extracting Information from Scanned Documents
+Marketing Analytics to Automate Leads Call Status and Reporting

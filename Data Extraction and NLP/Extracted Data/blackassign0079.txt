@@ -4,7 +4,7 @@ Home  What We Think  Impact of COVID-19 pandemic on Tourism & Aviation industrie
 
 BlackcofferWhat We ThinkEntertainment Impact of COVID-19 pandemic on Tourism & Aviation industries
 
-By Ajay Bidyarthy -   June 22, 2020 13605 
+By Ajay Bidyarthy -   June 22, 2020 13606 
 
 
 
@@ -94,8 +94,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Solution for Contact Centre Problems 
-April 26, 2021 
+Data Management Services 
+September 11, 2020 
 
 
  
@@ -103,8 +103,8 @@ April 26, 2021
 
 
 
-Is telehealth the future of healthcare? 
-April 28, 2022 
+Data Management, ETL, and Data Automation 
+August 6, 2023 
 
 
  
@@ -112,8 +112,8 @@ April 28, 2022
 
 
 
-Blockchain in Fintech 
-September 14, 2019 
+How you lead a project or a team without any technical... 
+September 22, 2020 
 
 
  
@@ -121,8 +121,8 @@ September 14, 2019
 
 
 
-Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch 
-June 25, 2021 
+Trading Bot for FOREX 
+December 31, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -130,25 +130,25 @@ June 25, 2021
 
 
  
-AI solution for a Technology, Information and Internet firm
+Big Data and Analytics to Help form Political Leaders Win Election
 
  
 
 
 
  
-An app for updating the email id of the user and...
+Sentiment Analysis of a Leading Restaurants Chain in the USA
 
  
 
 
 
  
-IoT & AI/ML Descriptive Solution Outline
+The Future of Telehealth Services
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+Optimize the data scraper program to easily accommodate large files and...

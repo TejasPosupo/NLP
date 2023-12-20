@@ -4,7 +4,7 @@ Home  What We Think  Coronavirus impact on energy markets
 
 BlackcofferWhat We ThinkHealthcare Coronavirus impact on energy markets
 
-By Ajay Bidyarthy -   May 1, 2020 13556 
+By Ajay Bidyarthy -   May 1, 2020 13557 
 
 
 
@@ -99,8 +99,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How Metaverse and VR can reform work culture? 
-February 28, 2022 
+How big data & analytics is helping fashion e-tailers to capture... 
+March 24, 2018 
 
 
  
@@ -108,8 +108,8 @@ February 28, 2022
 
 
 
-AWS QuickSight Reporting Dashboard 
-January 16, 2022 
+Create a Knowledge Graph to Provide Real-time Analytics, Recommendations, and a... 
+July 22, 2023 
 
 
  
@@ -117,8 +117,8 @@ January 16, 2022
 
 
 
-Rise of Internet Demand and Its Impact on Communications and Alternatives... 
-August 17, 2023 
+Global financial crisis 2008 causes/effects and its solution 
+August 23, 2020 
 
 
  
@@ -126,8 +126,8 @@ August 17, 2023
 
 
 
-Easy Database Access 
-June 8, 2019 
+Database Normalization & Segmentation with Google Data Studio Dashboard Insights 
+February 27, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -135,25 +135,25 @@ June 8, 2019
 
 
  
-Marketing Ads Leads Call Status Data Tool to BigQuery
+Portfolio: Website, Dashboard, SaaS Applications, Web Apps
 
  
 
 
 
  
-Are Customer Analytics Driving Big Data Initiatives?
+The Future of Telehealth Services
 
  
 
 
 
  
-Coronavirus: Effect on the Hospitality Industry
+How Machines, AI, Automations, and Robo-human are Effective in Finance and...
 
  
 
 
 
  
-Medical Classification
+Using Graph Technology to Create Single Customer View.

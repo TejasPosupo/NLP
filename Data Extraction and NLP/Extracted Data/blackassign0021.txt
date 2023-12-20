@@ -4,7 +4,7 @@ Home  What We Think  Negative effects of marketing on society
 
 BFSICapital MarketsWhat We ThinkMarketersMarketingMedia Negative effects of marketing on society
 
-By Ajay Bidyarthy -   November 19, 2022 6481 
+By Ajay Bidyarthy -   November 19, 2022 6482 
 
 
 
@@ -80,8 +80,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Resume Matching & Skill Ranking for a Leading IT Firm in... 
-March 27, 2021 
+How Retail Industry Drive Value from Big Data? 
+July 25, 2017 
 
 
  
@@ -89,8 +89,8 @@ March 27, 2021
 
 
 
-Big Data Integration & Infrastructure Solution 
-November 5, 2018 
+How Small Business can survive the Coronavirus Crisis 
+August 18, 2020 
 
 
  
@@ -98,8 +98,8 @@ November 5, 2018
 
 
 
-Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
-August 8, 2023 
+How humans and machines are evolving to work together? 
+June 24, 2021 
 
 
  
@@ -107,8 +107,8 @@ August 8, 2023
 
 
 
-Power BI integration with RestAPI, and SAML Integration 
-June 7, 2021 
+Big Data Analytics through IoT in Oil and Gas Industry 
+September 10, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -116,25 +116,25 @@ June 7, 2021
 
 
  
-Data integration and big data performance using Elasticsearch
+Contribution of handicrafts (Visual Arts & Literature) in the Indian economy
 
  
 
 
 
  
-Are we any closer to preventing a nuclear holocaust?
+Advanced Textual Analytics – Financial Analysis Industry
 
  
 
 
 
  
-Steps to Meta-Analysis
+Big Data and Analytics to Help form Political Leaders Win Election
 
  
 
 
 
  
-Integration of video-conferencing data to the existing web app
+Medical Classification

@@ -4,7 +4,7 @@ Home  What We Think  What if the Creation is Taking Over the Creator?
 
 Data ScienceArtificial IntelligenceBig DataBusiness AnalyticsMachine LearningWhat We Think What if the Creation is Taking Over the Creator?
 
-By Ajay Bidyarthy -   June 25, 2021 21023 
+By Ajay Bidyarthy -   June 25, 2021 21025 
 
 
 
@@ -78,6 +78,24 @@ MOST POPULAR INSIGHTS
 
 
 
+How you lead a project or a team without any technical... 
+September 22, 2020 
+
+
+ 
+
+
+
+
+An ETL solution for an Internet Publishing firm 
+July 26, 2023 
+
+
+ 
+
+
+
+
 Data Management Services 
 September 11, 2020 
 
@@ -87,26 +105,8 @@ September 11, 2020
 
 
 
-Coronavirus: Impact on the Hospitality Industry 
-April 28, 2020 
-
-
- 
-
-
-
-
-How advanced analytics are redefining banking? 
-June 1, 2019 
-
-
- 
-
-
-
-
-COVID-19 Vs Indian Economy 
-April 11, 2020 
+Advanced AI for Road Cam Threat Detection 
+July 22, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -114,25 +114,25 @@ April 11, 2020
 
 
  
-How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud...
+Problems faced by students in online classes during COVID-19
 
  
 
 
 
  
-Real-time dashboard to monitor infrastructure activity and Machines
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance...
 
  
 
 
 
  
-Integration of Python and Power BI, Python as an External Tool...
+How Big Data Will Impact the Future of Business?
 
  
 
 
 
  
-Using People Analytics To Drive Business Performance
+AutoGPT Setup

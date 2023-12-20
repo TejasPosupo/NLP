@@ -4,7 +4,7 @@ Home  What We Think  Rising IT cities will impact the economy, environment, infr
 
 BlackcofferWhat We ThinkCommercial & Professional ServicesBFSIFinance & AccountingInsurance Rising IT cities will impact the economy, environment, infrastructure, and city life by the year 2035
 
-By Ajay Bidyarthy -   October 17, 2022 4596 
+By Ajay Bidyarthy -   October 17, 2022 4597 
 
 
 
@@ -71,35 +71,35 @@ MOST POPULAR INSIGHTS
 
 
 
-The workflow of a Machine Learning / Artificial Intelligence project 
-January 14, 2020 
-
-
- 
-
-
-
-
-What do you think is the lesson (or lessons) to be... 
-March 30, 2020 
-
-
- 
-
-
-
-
-Transforming the Healthcare Systems 
-April 17, 2021 
-
-
- 
-
-
-
-
 AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech... 
 March 23, 2021 
+
+
+ 
+
+
+
+
+OCR – Extracting Information from Scanned Documents 
+April 18, 2020 
+
+
+ 
+
+
+
+
+Deep learning impact on areas of e-learning? 
+May 29, 2021 
+
+
+ 
+
+
+
+
+How can Big Data & Analytics change the healthcare sector in... 
+March 15, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -107,25 +107,25 @@ March 23, 2021
 
 
  
-Data Management, ETL, and Data Automation
+Google LSA API Data Automation and Dashboarding
 
  
 
 
 
  
-Deploy Nodejs app on a cloud VM such as GCP, AWS,...
+Big Data Analytics through IoT in Oil and Gas Industry
 
  
 
 
 
  
-INDUSTRIAL REVOLUTION 4.0 – PROS AND CONS
+How is AI used to solve traffic management?
 
  
 
 
 
  
-COVID-19 Impact on Hospitality Industry
+Estimating the impact of COVID-19 on the world of work

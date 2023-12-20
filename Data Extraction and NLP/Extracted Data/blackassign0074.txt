@@ -4,7 +4,7 @@ Home  What We Think  Gender diversity and Equality in the tech industry
 
 BlackcofferBFSICapital MarketsWhat We Think Gender diversity and Equality in the tech industry
 
-By Ajay Bidyarthy -   August 20, 2020 14271 
+By Ajay Bidyarthy -   August 20, 2020 14272 
 
 
 
@@ -130,8 +130,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Sentiment Analysis Bot for Price Prediction 
-March 10, 2021 
+Coronavirus: Effect on the Hospitality Industry 
+April 30, 2020 
 
 
  
@@ -139,8 +139,8 @@ March 10, 2021
 
 
 
-Transform API into SDK library and widget 
-September 15, 2022 
+The rise of the OTT platform and its impact on the... 
+August 17, 2023 
 
 
  
@@ -148,8 +148,8 @@ September 15, 2022
 
 
 
-Rise of telemedicine and its Impact on Livelihood by 2040 
-January 2, 2023 
+NFT Data Automation (looksrare), and ETL tool 
+May 13, 2022 
 
 
  
@@ -157,8 +157,8 @@ January 2, 2023
 
 
 
-Advanced AI for Handgun Detection 
-July 21, 2023 
+How the COVID-19 crisis is redefining jobs and services? 
+August 15, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -166,25 +166,25 @@ July 21, 2023
 
 
  
-Contribution of handicrafts (Visual Arts & Literature) in the Indian economy
+Impact of COVID-19 (Coronavirus) on the Indian Economy
 
  
 
 
 
  
-IoT & AI/ML Solution for Construction and builders – apartment, commercial...
+Realtime Kibana Dashboard for a financial tech firm
 
  
 
 
 
  
-Online Barometer Dashboard for Smart Schools System
+Role of Big Data in Academia
 
  
 
 
 
  
-How prepared is India to tackle a possible COVID-19 outbreak?
+Is Perfection the Greatest enemy of Productivity?

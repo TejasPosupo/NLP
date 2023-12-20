@@ -4,7 +4,7 @@ Home  What We Think  Rise of Internet Demand and its Impact on Communications an
 
 Data ScienceArtificial IntelligenceBlackcofferWhat We ThinkFutureInternet of ThingsMachine LearningPrediction Rise of Internet Demand and its Impact on Communications and Alternatives by the Year 2035.
 
-By Ajay Bidyarthy -   August 16, 2023 430 
+By Ajay Bidyarthy -   August 16, 2023 431 
 
 
 
@@ -110,8 +110,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Marketing Analytics Solution, a Big Data Approach 
-May 1, 2019 
+Add SPF Record, Cpanel, Bigrock 
+August 17, 2019 
 
 
  
@@ -119,8 +119,8 @@ May 1, 2019
 
 
 
-Impact of coronavirus on the Indian economy 
-April 15, 2020 
+Do All Social Media Is Owned By Meta? 
+January 17, 2022 
 
 
  
@@ -128,8 +128,8 @@ April 15, 2020
 
 
 
-How AI will change the World? 
-May 29, 2021 
+Database Normalization & Segmentation with Google Data Studio Dashboard Insights 
+February 27, 2022 
 
 
  
@@ -137,8 +137,8 @@ May 29, 2021
 
 
 
-Big Data and Analytics to Help form Political Leaders Win Election 
-April 13, 2019 
+How Small Business can survive the Coronavirus Crisis 
+August 18, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -146,25 +146,25 @@ April 13, 2019
 
 
  
-Impress with a Modern Website
+Traceability of information – Master your data capital
 
  
 
 
 
  
-IoT & AI/ML Solution for Construction and builders – apartment, commercial...
+Online Barometer Dashboard for Smart Schools System
 
  
 
 
 
  
-NLP-based Approach for Data Transformation
+Data Transformation
 
  
 
 
 
  
-Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
+Google Local Service Ads LSA API To Google BigQuery to Google...

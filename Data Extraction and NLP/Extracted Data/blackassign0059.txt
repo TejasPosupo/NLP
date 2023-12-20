@@ -4,7 +4,7 @@ Home  What We Think  Can robots tackle late-life loneliness?
 
 BlackcofferData ScienceData VisualizationWhat We ThinkFutureInternet of Things Can robots tackle late-life loneliness?
 
-By Ajay Bidyarthy -   December 2, 2020 13912 
+By Ajay Bidyarthy -   December 2, 2020 13913 
 
 
 
@@ -63,6 +63,15 @@ MOST POPULAR INSIGHTS
 
 
 
+IoT, AI, ML to Detect Fire and Smoke 
+June 17, 2020 
+
+
+ 
+
+
+
+
 How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud... 
 August 8, 2023 
 
@@ -72,8 +81,8 @@ August 8, 2023
 
 
 
-The Metaverse and its Implications for our Digital Future. 
-February 3, 2022 
+Google LSA Ads (Google Local Service Ads) – ETL tools and... 
+July 26, 2023 
 
 
  
@@ -81,17 +90,8 @@ February 3, 2022
 
 
 
-Should celebrities be allowed to join politics? 
-April 16, 2020 
-
-
- 
-
-
-
-
-How to protect future data and its privacy? 
-May 29, 2021 
+Future of Work: How AI Has Entered the Workplace 
+May 28, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -99,25 +99,25 @@ May 29, 2021
 
 
  
-Impact of COVID-19 pandemic on Tourism & Aviation industries
+Analytical solution for a tech firm
 
  
 
 
 
  
-Data Management for a Political SaaS Application
+How Telehealth and Telemedicine helping people to fight against COVID-19
 
  
 
 
 
  
-Political Intelligence Database
+Database Normalization & Segmentation with Google Data Studio Dashboard Insights
 
  
 
 
 
  
-Will machine replace the human in the future of work?
+An AI ML-based web application that detects the correctness of text...

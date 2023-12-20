@@ -4,7 +4,7 @@ Home  Blackcoffer  Rise of Chatbots and its impact on customer support by the ye
 
 BlackcofferFutureForecastsWhat We Think Rise of Chatbots and its impact on customer support by the year 2040
 
-By Ajay Bidyarthy -   January 2, 2023 4857 
+By Ajay Bidyarthy -   January 2, 2023 4858 
 
 
 
@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How advertisement/marketing affects business. 
-November 19, 2022 
+Lipsync Automation for Celebrities and Influencers 
+September 5, 2021 
 
 
  
@@ -95,8 +95,8 @@ November 19, 2022
 
 
 
-Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion 
-June 26, 2019 
+Google Local Service Ads (LSA) Leads Dashboard 
+February 14, 2022 
 
 
  
@@ -104,8 +104,8 @@ June 26, 2019
 
 
 
-AI, ML, and IoT driven Entry Management and Monitoring 
-June 19, 2020 
+Transforming the Healthcare Systems 
+April 17, 2021 
 
 
  
@@ -113,8 +113,8 @@ June 19, 2020
 
 
 
-Impact of coronavirus on the Indian economy 
-April 15, 2020 
+How COVID-19 is impacting payment preferences? 
+June 22, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ April 15, 2020
 
 
  
-Making a robust way to sync data from airtables to mongoDB...
+Data Analytics Solution for the Hospitality Industry
 
  
 
 
 
  
-How does Metaverse work in the Financial Sector?
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
 
  
 
 
 
  
-Solution to quadratic assignment problems (QAP) using Ant Colony System
+Gangala.in: E-commerce Big Data ETL / ELT Solution and Data Warehouse
 
  
 
 
 
  
-Data ETL: Local Service Ads Leads to BigQuery
+Return on Advertising Spend Dashboard: Marketing Automation and Analytics using ETL...

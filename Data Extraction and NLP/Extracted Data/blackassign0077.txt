@@ -4,7 +4,7 @@ Home  What We Think  Impacts of COVID 19 on Food products
 
 Consumer StaplesFood & Staples RetailingWhat We Think Impacts of COVID 19 on Food products
 
-By Ajay Bidyarthy -   November 6, 2021 13474 
+By Ajay Bidyarthy -   November 6, 2021 13475 
 
 
 
@@ -65,8 +65,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How COVID-19 is impacting payment preferences? 
-June 22, 2020 
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
+July 26, 2023 
 
 
  
@@ -74,8 +74,8 @@ June 22, 2020
 
 
 
-Recommendation Engine for Insurance Sector to Expand Business in the Rural... 
-July 29, 2023 
+Healthcare Data Analysis 
+August 22, 2021 
 
 
  
@@ -83,8 +83,8 @@ July 29, 2023
 
 
 
-Will Machine Replace The Human in the Future of Work? 
-June 25, 2021 
+Big Data and Analytics to Help form Political Leaders Win Election 
+April 13, 2019 
 
 
  
@@ -92,8 +92,8 @@ June 25, 2021
 
 
 
-How robots can help in e-learning platforms? 
-July 19, 2021 
+Integration of Python and Power BI, Python as an External Tool... 
+June 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -101,25 +101,25 @@ July 19, 2021
 
 
  
-Data Management, ETL, and Data Automation
+IoT & AI/ML Descriptive Solution Outline
 
  
 
 
 
  
-Business Analytics In The Healthcare Industry
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
 
  
 
 
 
  
-The workflow of a Machine Learning / Artificial Intelligence project
+Advance Analytics for Refocusing Profits
 
  
 
 
 
  
-Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
+How will COVID-19 affect the world of work?

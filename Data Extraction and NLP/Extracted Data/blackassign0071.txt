@@ -4,7 +4,7 @@ Home  What We Think  How to Overcome Your Fear of Making Mistakes
 
 Data ScienceAnalyticsBlackcofferWhat We Think How to Overcome Your Fear of Making Mistakes
 
-By Ajay Bidyarthy -   August 23, 2020 13886 
+By Ajay Bidyarthy -   August 23, 2020 13887 
 
 
 
@@ -81,8 +81,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Marketing, sales, and financial data business dashboard (Wink Report) 
-September 18, 2021 
+How marketers can start integrating AI in their work 
+November 19, 2018 
 
 
  
@@ -90,8 +90,8 @@ September 18, 2021
 
 
 
-Online gaming: Adolescent online gaming effects demotivated, depression, musculoskeletal, and psychosomatic... 
-June 23, 2020 
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
+January 22, 2020 
 
 
  
@@ -99,8 +99,8 @@ June 23, 2020
 
 
 
-How robots can help in e-learning platforms? 
-July 19, 2021 
+Future of Work: Robot, AI and Automation 
+June 26, 2021 
 
 
  
@@ -108,8 +108,8 @@ July 19, 2021
 
 
 
-Google Local Service Ads (LSA) Leads Dashboard 
-February 14, 2022 
+Android Mobile Apps Portfolio 
+June 19, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -117,25 +117,25 @@ February 14, 2022
 
 
  
-Interpret the Coefficients in Regression Models
+Google LSA API Data Automation and Dashboarding
 
  
 
 
 
  
-Design and develop MLops framework for Data-centric AI
+How does marketing influence businesses and consumers?
 
  
 
 
 
  
-Prediction Model for Online Casino
+Big Data and Analytics to Help form Political Leaders Win Election
 
  
 
 
 
  
-What do you think is the lesson (or lessons) to be...
+How can Big Data & Analytics change the healthcare sector in...

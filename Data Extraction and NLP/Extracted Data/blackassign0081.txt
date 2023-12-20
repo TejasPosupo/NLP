@@ -4,7 +4,7 @@ Home  What We Think  Changing landscape and emerging trends in the Indian IT/ITe
 
 BlackcofferWhat We ThinkInformation TechnologySoftware & Services Changing landscape and emerging trends in the Indian IT/ITeS Industry.
 
-By Ajay Bidyarthy -   June 22, 2020 14453 
+By Ajay Bidyarthy -   June 22, 2020 14454 
 
 
 
@@ -94,8 +94,8 @@ MOST POPULAR INSIGHTS
 
 
 
-An AI ML-based web application that detects the correctness of text... 
-July 8, 2022 
+Coronavirus: Effect on the Hospitality Industry 
+April 30, 2020 
 
 
  
@@ -103,8 +103,8 @@ July 8, 2022
 
 
 
-Rise of Cybercrime and its Effect by the Year 2040. 
-August 16, 2023 
+Financial Modeling of the Investment Management Professionals 
+August 23, 2020 
 
 
  
@@ -112,8 +112,8 @@ August 16, 2023
 
 
 
-How advertisement increase your market value? 
-November 20, 2022 
+MONETIZATION OF DATA – INNOVATE TO HARVEST THE FULL VALUE OF... 
+June 13, 2019 
 
 
  
@@ -121,8 +121,8 @@ November 20, 2022
 
 
 
-How Voice search makes your business a successful business. 
-July 29, 2020 
+MetaBridges API Decentraland Integration – AR, VR 
+January 24, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -130,25 +130,25 @@ July 29, 2020
 
 
  
-Transform API into SDK library and widget
+What is the repercussion of the environment due to the COVID-19...
 
  
 
 
 
  
-Recommendation System for Posts and Articles.
+How machine learning will affect your business?
 
  
 
 
 
  
-Data Driven Dashboards, Foundation and Application in Industry
+Will machine replace the human in the future of work?
 
  
 
 
 
  
-An AI ML-based web application that detects the correctness of text...
+Plaid Financial Analytics – A Data-Driven Dashboard to generate insights

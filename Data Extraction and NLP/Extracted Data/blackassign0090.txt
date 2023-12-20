@@ -4,7 +4,7 @@ Home  What We Think  Lessons from the past: Some key learnings relevant to the c
 
 BlackcofferWhat We ThinkHealthcare Lessons from the past: Some key learnings relevant to the coronavirus crisis
 
-By Ajay Bidyarthy -   May 1, 2020 13408 
+By Ajay Bidyarthy -   May 1, 2020 13409 
 
 
 
@@ -70,8 +70,8 @@ MOST POPULAR INSIGHTS
 
 
 
-OCR (Optical Character Recognition) 
-September 24, 2019 
+Role of Big Data in Healthcare 
+May 26, 2017 
 
 
  
@@ -79,8 +79,8 @@ September 24, 2019
 
 
 
-Elastic Kibana Specialist to Create Dashboard & Visualization 
-May 16, 2021 
+How Political Leaders will Shape Tomorrow using Big Data & Analytics 
+April 15, 2019 
 
 
  
@@ -88,8 +88,8 @@ May 16, 2021
 
 
 
-Impact of COVID-19 pandemic on entertainment industries such as theaters. 
-June 23, 2020 
+COVID-19 Impact on Hospitality Industry 
+May 1, 2020 
 
 
  
@@ -97,8 +97,8 @@ June 23, 2020
 
 
 
-How Data Analytics can help your business respond to the impact... 
-May 1, 2021 
+NLP-based Approach for Data Transformation 
+July 29, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -106,25 +106,25 @@ May 1, 2021
 
 
  
-A web-based dashboard for the filtered data retrieval of land records
+PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System
 
  
 
 
 
  
-Airbnb & Homeaway Pricing Recommendation
+Auvik, Connectwise integration in Grafana
 
  
 
 
 
  
-Data Analytics as a Tool to Reduce the Cost of Production...
+Global Economy effected by Coronavirus
 
  
 
 
 
  
-Lipsync Automation for Celebrities and Influencers
+How AI will impact the future of work?

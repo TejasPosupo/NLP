@@ -4,7 +4,7 @@ Home  What We Think  Gaming Disorder and Effects of Gaming on Health.
 
 BlackcofferWhat We ThinkEntertainment Gaming Disorder and Effects of Gaming on Health.
 
-By Ajay Bidyarthy -   June 17, 2020 13474 
+By Ajay Bidyarthy -   June 17, 2020 13475 
 
 
 
@@ -79,8 +79,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Impact of newly discovered coronavirus on the Global Economy 
-April 12, 2020 
+What do you think is the lesson (or lessons) to be... 
+March 30, 2020 
 
 
  
@@ -88,8 +88,8 @@ April 12, 2020
 
 
 
-Plaid Financial Analytics – A Data-Driven Dashboard to generate insights 
-July 29, 2023 
+Database Normalization & Segmentation with Google Data Studio Dashboard Insights 
+February 27, 2022 
 
 
  
@@ -97,8 +97,8 @@ July 29, 2023
 
 
 
-Big Data Integration & Infrastructure Solution 
-November 5, 2018 
+AWS Lex Voice and Chatbot 
+January 29, 2022 
 
 
  
@@ -106,8 +106,8 @@ November 5, 2018
 
 
 
-Deploy MERN to google app engine, google cloud platform 
-May 16, 2021 
+Key Audit Matters Predictive Modeling 
+September 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -115,25 +115,25 @@ May 16, 2021
 
 
  
-Automate the Data Management Process
+Descriptive vs Inquisitive vs Predictive Analytics
 
  
 
 
 
  
-Impact of Indian Economy due to COVID-19
+Elastic Kibana Specialist to Create Dashboard & Visualization
 
  
 
 
 
  
-How will COVID-19 affect the world of work?
+IoT & AI/ML Solution for Gas Stations
 
  
 
 
 
  
-Marketing Ads Leads Call Status Data Tool to BigQuery
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways

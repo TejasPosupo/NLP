@@ -4,7 +4,7 @@ Home  What We Think  How to protect future data and its privacy?
 
 What We ThinkAutomobiles & Components How to protect future data and its privacy?
 
-By Ajay Bidyarthy -   May 29, 2021 14518 
+By Ajay Bidyarthy -   May 29, 2021 14519 
 
 
 
@@ -106,8 +106,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How marketers can start integrating AI in their work 
-November 19, 2018 
+Car Detection in Satellite Images 
+July 21, 2023 
 
 
  
@@ -115,8 +115,8 @@ November 19, 2018
 
 
 
-What Analytics & IT Outsourcing engagement model is right for you? 
-August 2, 2018 
+COVID-19 Impact on Hospitality Industry 
+May 1, 2020 
 
 
  
@@ -124,8 +124,8 @@ August 2, 2018
 
 
 
-Business Analytics In The Healthcare Industry 
-July 19, 2019 
+Google Local Service Ads (LSA) Leads Dashboard 
+February 14, 2022 
 
 
  
@@ -133,8 +133,8 @@ July 19, 2019
 
 
 
-Challenges and Opportunities of Big Data in Healthcare 
-July 19, 2019 
+Modeling & Simulation for Drug Development & Formulation 
+January 9, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -142,25 +142,25 @@ July 19, 2019
 
 
  
-Google Local Service Ads (LSA) Leads Dashboard
+Elastic Kibana Specialist to Create Dashboard & Visualization
 
  
 
 
 
  
-Which one is better AI or big data?
+Design & develop an app in retool which shows the progress...
 
  
 
 
 
  
-How prepared is India to tackle a possible COVID-19 outbreak?
+Structural Equation Modeling (SEM)
 
  
 
 
 
  
-Dashboard to track the analytics of the website using Google Analytics...
+Marketing Ads Leads Call Status Data Tool to BigQuery

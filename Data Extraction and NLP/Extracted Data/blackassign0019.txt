@@ -4,7 +4,7 @@ Home  What We Think  How does marketing influence businesses and consumers?
 
 What We ThinkMarketingMaterials How does marketing influence businesses and consumers?
 
-By Ajay Bidyarthy -   November 20, 2022 4934 
+By Ajay Bidyarthy -   November 20, 2022 4935 
 
 
 
@@ -118,8 +118,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Car Parking Management System 
-June 12, 2019 
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts 
+June 26, 2021 
 
 
  
@@ -127,8 +127,8 @@ June 12, 2019
 
 
 
-Integration of a product to a cloud-based CRM platform 
-September 15, 2022 
+Entertainment Music Player User Analytics and Recommendations 
+March 23, 2021 
 
 
  
@@ -136,8 +136,8 @@ September 15, 2022
 
 
 
-How can Big Data & Analytics change the healthcare sector in... 
-March 15, 2018 
+Advanced Textual Analytics – Financial Analysis Industry 
+June 6, 2019 
 
 
  
@@ -145,8 +145,8 @@ March 15, 2018
 
 
 
-AI agent development and Deployment in Jina AI 
-July 24, 2023 
+Deploy Nodejs app on a cloud VM such as GCP, AWS,... 
+August 8, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -154,25 +154,25 @@ July 24, 2023
 
 
  
-How Telehealth and Telemedicine helping people to fight against COVID-19
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-Business Analytics In The Healthcare Industry
+Statistical Simulation
 
  
 
 
 
  
-Travel and Tourism Outlook
+Do Ethnic differences possibly influence the risk of Multiple Sclerosis development...
 
  
 
 
 
  
-Dashboard to track the analytics of the website using Google Analytics...
+Design & Develop BERT Question Answering model explanations with visualization

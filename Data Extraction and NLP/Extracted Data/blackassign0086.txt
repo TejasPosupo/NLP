@@ -4,7 +4,7 @@ Home  What We Think  How to increase social media engagement for marketers?
 
 BlackcofferBFSIFinance & AccountingWhat We Think How to increase social media engagement for marketers?
 
-By Ajay Bidyarthy -   August 15, 2020 13693 
+By Ajay Bidyarthy -   August 15, 2020 13694 
 
 
 
@@ -105,8 +105,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Car Parking Management System 
-June 12, 2019 
+Lessons from the past: Some key learnings relevant to the coronavirus... 
+May 1, 2020 
 
 
  
@@ -114,8 +114,8 @@ June 12, 2019
 
 
 
-AI Dashboard of Health Fitness – In-Depth Look 
-July 5, 2019 
+Google Local Service Ads Missed Calls and Messages Automation Tool 
+August 30, 2021 
 
 
  
@@ -123,8 +123,8 @@ July 5, 2019
 
 
 
-Is telehealth the future of healthcare? 
-April 28, 2022 
+Continued Demand for Sustainability 
+November 30, 2019 
 
 
  
@@ -132,8 +132,8 @@ April 28, 2022
 
 
 
-AI in healthcare to Improve Patient Outcomes 
-June 26, 2021 
+Marketing Analytics Solution, a Big Data Approach 
+May 1, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -141,25 +141,25 @@ June 26, 2021
 
 
  
-Connecting MongoDB Database to Power BI Dashboard: Dashboard Automation
+Behavior Based Chi-Square model to Detect Data-Exfiltration over the Network
 
  
 
 
 
  
-Electric Vehicles (EV) Load Management System to Forecast Energy Demand
+Rise of telemedicine and its Impact on Livelihood by 2040
 
  
 
 
 
  
-Coronavirus Disease (COVID-19) Effect: The Impact and Role of Mass Media...
+AI-Based Algorithmic Trading Bot for Forex
 
  
 
 
 
  
-How will COVID-19 affect the world of work?
+Making a robust way to sync data from airtables to mongoDB...

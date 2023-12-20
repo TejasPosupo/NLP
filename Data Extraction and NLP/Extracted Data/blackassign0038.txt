@@ -4,7 +4,7 @@ Home  What We Think  Deep learning impact on areas of e-learning?
 
 Data ScienceAnalyticsArtificial IntelligenceWhat We ThinkStatistics Deep learning impact on areas of e-learning?
 
-By Ajay Bidyarthy -   May 29, 2021 14613 
+By Ajay Bidyarthy -   May 29, 2021 14614 
 
 
 
@@ -89,8 +89,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Data Management – EGEAS 
-August 6, 2023 
+IoT & AI/ML Solution for Construction and builders – apartment, commercial... 
+January 22, 2020 
 
 
  
@@ -98,8 +98,8 @@ August 6, 2023
 
 
 
-The 8 Steps of AI/ML Project 
-January 14, 2020 
+Prediction Model for Online Casino 
+April 5, 2021 
 
 
  
@@ -107,8 +107,8 @@ January 14, 2020
 
 
 
-The workflow of a Machine Learning / Artificial Intelligence project 
-January 14, 2020 
+Airbnb & Homeaway Pricing Recommendation 
+March 14, 2021 
 
 
  
@@ -116,8 +116,8 @@ January 14, 2020
 
 
 
-Incident Duration Prediction – Infrastructure and Real Estate 
-February 27, 2022 
+Future of AI and Machine Roles in the Medical Sector 
+June 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -125,25 +125,25 @@ February 27, 2022
 
 
  
-CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
+How Metaverse is Shaping the Future?
 
  
 
 
 
  
-Marketing, sales, and financial data business dashboard (Wink Report)
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
 
  
 
 
 
  
-Google LSA Ads (Google Local Service Ads) – ETL tools and...
+Transform API into SDK library and widget
 
  
 
 
 
  
-How Artificial Intelligence can deliver real value to companies?
+Design and develop PowerShell script

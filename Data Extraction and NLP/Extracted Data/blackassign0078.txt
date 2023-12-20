@@ -4,7 +4,7 @@ Home  What We Think  Impacts of COVID 19 on Vegetable Vendors
 
 Consumer StaplesFood & Staples RetailingWhat We Think Impacts of COVID 19 on Vegetable Vendors
 
-By Ajay Bidyarthy -   November 6, 2021 12522 
+By Ajay Bidyarthy -   November 6, 2021 12523 
 
 
 
@@ -71,35 +71,35 @@ MOST POPULAR INSIGHTS
 
 
 
-Rise of telemedicine and its Impact on Livelihood by 2040 
+How Coronavirus Impact on the Hospitality Industry 
+April 30, 2020 
+
+
+ 
+
+
+
+
+CRM, Monday.com via Zapier to Power BI Dashboard 
+July 29, 2023 
+
+
+ 
+
+
+
+
+Rise of cybercrime and its effect by the year 2040. 
+August 28, 2023 
+
+
+ 
+
+
+
+
+Rise of e-health and its impact on humans by the year... 
 January 2, 2023 
-
-
- 
-
-
-
-
-Contribution of handicrafts (Visual Arts & Literature) in the Indian economy 
-June 22, 2020 
-
-
- 
-
-
-
-
-Rising IT Cities and its Impact on the Economy, Environment, Infrastructure,... 
-August 17, 2023 
-
-
- 
-
-
-
-
-Marketing Drives Results With A Focus On Problems 
-November 25, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -107,25 +107,25 @@ November 25, 2019
 
 
  
-AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech...
+Rising IT Cities and Their Impact on the Economy, Environment, Infrastructure,...
 
  
 
 
 
  
-AI agent development and Deployment in Jina AI
+Power BI dashboard to drive insights from complex data to generate...
 
  
 
 
 
  
-Do Ethnic differences possibly influence the risk of Multiple Sclerosis development...
+Data Warehouse to Google Data Studio (Looker) Dashboard
 
  
 
 
 
  
-How are genetic sequencing maps affected by deep learning and AI?
+Data security Protect a major enterprise asset

@@ -4,7 +4,7 @@ Home  What We Think  How machine learning will affect your business?
 
 What We ThinkAutomobiles & ComponentsBFSIDiversified FinancialsFinance & AccountingSecurities and Capital Markets How machine learning will affect your business?
 
-By Ajay Bidyarthy -   May 29, 2021 14869 
+By Ajay Bidyarthy -   May 29, 2021 14870 
 
 
 
@@ -73,8 +73,8 @@ MOST POPULAR INSIGHTS
 
 
 
-What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
-March 9, 2021 
+What is the limitation of e-learning classes? 
+December 7, 2021 
 
 
  
@@ -82,8 +82,8 @@ March 9, 2021
 
 
 
-Entertainment Music Player User Analytics and Recommendations 
-March 23, 2021 
+What is Data Exfiltration? 
+May 14, 2017 
 
 
  
@@ -91,8 +91,8 @@ March 23, 2021
 
 
 
-KPI Dashboard for Accountants 
-July 21, 2023 
+Embedding care robots into society and practice: Socio-technical considerations 
+December 2, 2020 
 
 
  
@@ -100,8 +100,8 @@ July 21, 2023
 
 
 
-Oil prices by the year 2040, and how it will impact... 
-August 20, 2022 
+How will COVID-19 affect the world of work? 
+April 29, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -109,25 +109,25 @@ August 20, 2022
 
 
  
-Confirmatory Path Analysis (CFA)
+How artificial intelligence can boost your productivity level?
 
  
 
 
 
  
-Evaluating Logistic Regression Models
+Data from CRM via Zapier to Google Sheets (Dynamic) to PowerBI
 
  
 
 
 
  
-Design and develop Jenkins shared library
+Data Warehouse to Google Data Studio (Looker) Dashboard
 
  
 
 
 
  
-How advertisement/marketing affects business.
+Recommendation Engine for Insurance Sector to Expand Business in the Rural...

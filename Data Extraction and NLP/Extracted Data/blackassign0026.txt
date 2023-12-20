@@ -4,7 +4,7 @@ Home  What We Think  Rise of electric vehicle and its impact on livelihood by th
 
 What We ThinkConsumer ServicesEnergyOil & Gas Rise of electric vehicle and its impact on livelihood by the year 2040.
 
-By Ajay Bidyarthy -   August 22, 2022 4553 
+By Ajay Bidyarthy -   August 22, 2022 4554 
 
 
 
@@ -71,8 +71,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How you lead a project or a team without any technical... 
-September 22, 2020 
+Continued Demand for Sustainability 
+November 30, 2019 
 
 
  
@@ -80,8 +80,8 @@ September 22, 2020
 
 
 
-Transalta: Migration of servers from VMware to AWS Client 
-January 16, 2020 
+Integrating and Deriving Insights from the Cost of Equity 
+November 29, 2020 
 
 
  
@@ -89,8 +89,8 @@ January 16, 2020
 
 
 
-The Emergence of Data Analytics 
-January 11, 2019 
+A web-based dashboard for the filtered data retrieval of land records 
+September 15, 2022 
 
 
  
@@ -98,8 +98,8 @@ January 11, 2019
 
 
 
-How To Secure (SSL) Nginx with Let’s Encrypt on Ubuntu (Cloud... 
-August 8, 2023 
+Solution to quadratic assignment problems (QAP) using Ant Colony System 
+February 18, 2019 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -107,25 +107,25 @@ August 8, 2023
 
 
  
-Rise of e-health and its impact on humans by the year...
-
- 
-
-
-
- 
-Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the...
-
- 
-
-
-
- 
-Confirmatory Path Analysis (CFA)
-
- 
-
-
-
- 
 Data Management for a Political SaaS Application
+
+ 
+
+
+
+ 
+Airbnb & Homeaway Pricing Recommendation
+
+ 
+
+
+
+ 
+Impact of newly discovered coronavirus on the Global Economy
+
+ 
+
+
+
+ 
+AWS Lex Voice and Chatbot

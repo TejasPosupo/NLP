@@ -4,7 +4,7 @@ Home  What We Think  Future  Rise of Cybercrime and its Effect by the Year 2040.
 
 What We ThinkFuturePrediction Rise of Cybercrime and its Effect by the Year 2040.
 
-By Ajay Bidyarthy -   August 16, 2023 532 
+By Ajay Bidyarthy -   August 16, 2023 533 
 
 
 
@@ -102,8 +102,8 @@ MOST POPULAR INSIGHTS
 
 
 
-New Jersey Based Micro Business Sentiment Analysis 
-August 23, 2020 
+Google LSA Ads (Google Local Service Ads) – ETL tools and... 
+July 26, 2023 
 
 
  
@@ -111,8 +111,8 @@ August 23, 2020
 
 
 
-IoT & AI/ML Descriptive Solution Outline 
-January 22, 2020 
+Impact of COVID-19 (Coronavirus) on the Indian Economy 
+April 15, 2020 
 
 
  
@@ -120,8 +120,8 @@ January 22, 2020
 
 
 
-Real Estate Data Warehouse 
-September 4, 2021 
+Realtime Kibana Dashboard for a financial tech firm 
+August 8, 2023 
 
 
  
@@ -129,8 +129,8 @@ September 4, 2021
 
 
 
-Data Management, ETL, and Data Automation 
-August 6, 2023 
+From Utopia to Reality: Marketing and the Big Data Revolution 
+June 13, 2018 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -138,25 +138,25 @@ August 6, 2023
 
 
  
-What Jobs Will Robots Take From Humans in The Future?
+MetaBridges API Decentraland Integration – AR, VR
 
  
 
 
 
  
-PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System
+HR Analytics Dashboard
 
  
 
 
 
  
-The Emergence of Data Analytics
+Statistical Simulation
 
  
 
 
 
  
-Rising IT cities will impact the economy, environment, infrastructure, and city...
+Realtime Kibana Dashboard for a financial tech firm

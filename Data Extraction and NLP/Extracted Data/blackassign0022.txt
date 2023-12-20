@@ -4,7 +4,7 @@ Home  What We Think  How advertisement/marketing affects business.
 
 BFSIDerivatives and SecuritiesWhat We Think How advertisement/marketing affects business.
 
-By Ajay Bidyarthy -   November 19, 2022 4523 
+By Ajay Bidyarthy -   November 19, 2022 4524 
 
 
 
@@ -67,8 +67,8 @@ MOST POPULAR INSIGHTS
 
 
 
-An agent-based model of a Virtual Power Plant (VPP) 
-September 15, 2022 
+Rise of Cyber Crime and its Effects 
+August 17, 2023 
 
 
  
@@ -76,8 +76,8 @@ September 15, 2022
 
 
 
-Text to Speech, html 
-May 10, 2019 
+Population and Community Survey of America 
+August 22, 2021 
 
 
  
@@ -85,8 +85,8 @@ May 10, 2019
 
 
 
-Replacing existing pavement roads, parking lots and sidewalks with pavement made... 
-July 17, 2019 
+Get Answers from Structural Equation Modeling 
+April 12, 2019 
 
 
  
@@ -94,8 +94,8 @@ July 17, 2019
 
 
 
-How does Metaverse work in the Financial Sector? 
-February 28, 2022 
+Lessons from the past: Some key learnings relevant to the coronavirus... 
+May 1, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -103,25 +103,25 @@ February 28, 2022
 
 
  
-How does Metaverse work in the Financial sector?
+How to Setup Custom Domain for Google App Engine Application?
 
  
 
 
 
  
-Portfolio: Website, Dashboard, SaaS Applications, Web Apps
+Microsoft Azure chatbot with LUIS (Language Understanding)
 
  
 
 
 
  
-Is big data the same as AI?
+Design and develop MLops framework for Data-centric AI
 
  
 
 
 
  
-COVID-19 Impact on Hospitality Industry
+How Metaverse and VR can reform work culture?

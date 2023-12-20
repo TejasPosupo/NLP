@@ -4,7 +4,7 @@ Home  What We Think  Impact of AI in health and medicine
 
 Data ScienceArtificial IntelligenceBlackcofferWhat We Think Impact of AI in health and medicine
 
-By Ajay Bidyarthy -   February 11, 2021 14531 
+By Ajay Bidyarthy -   February 11, 2021 14532 
 
 
 
@@ -96,8 +96,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Advanced AI for Handgun Detection 
-July 21, 2023 
+Dashboard to track the analytics of the website using Google Analytics... 
+July 1, 2022 
 
 
  
@@ -105,8 +105,8 @@ July 21, 2023
 
 
 
-Impacts of COVID 19 on Streets Sides Food Stalls 
-November 6, 2021 
+Data Integration, ELT with Neo4j Graph Database 
+April 8, 2021 
 
 
  
@@ -114,8 +114,8 @@ November 6, 2021
 
 
 
-How Telehealth and Telemedicine helping people to fight against COVID-19 
-April 28, 2022 
+Impact of news, media, and press on innovation, startups, and investments 
+January 16, 2022 
 
 
  
@@ -123,7 +123,7 @@ April 28, 2022
 
 
 
-Rise of telemedicine and its Impact on Livelihood by 2040 
+Rise of Chatbots and its impact on customer support by the... 
 January 2, 2023 
 
 
@@ -132,25 +132,25 @@ January 2, 2023
 
 
  
-Descriptive vs Inquisitive vs Predictive Analytics
+Impacts of COVID 19 on Streets Sides Food Stalls
 
  
 
 
 
  
-NLP-based Approach for Data Transformation
+How advanced analytics are redefining banking?
 
  
 
 
 
  
-Design & develop an app in retool which shows the progress...
+How Small Business can survive the Coronavirus Crisis
 
  
 
 
 
  
-COVID-19 Impact on Hospitality Industry
+How Google fit measure heart and respiratory rates using a phone...

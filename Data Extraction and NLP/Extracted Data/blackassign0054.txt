@@ -4,7 +4,7 @@ Home  What We Think  How Google fit measure heart and respiratory rates using a 
 
 Data ScienceArtificial IntelligenceBig DataWhat We Think How Google fit measure heart and respiratory rates using a phone camera?
 
-By Ajay Bidyarthy -   March 4, 2021 14385 
+By Ajay Bidyarthy -   March 4, 2021 14386 
 
 
 
@@ -66,8 +66,8 @@ MOST POPULAR INSIGHTS
 
 
 
-How advertisement/marketing affects business. 
-November 19, 2022 
+How Coronavirus Impact on the Hospitality Industry 
+April 30, 2020 
 
 
  
@@ -75,8 +75,8 @@ November 19, 2022
 
 
 
-How will COVID-19 affect the world of work? 
-April 29, 2020 
+Are Initial Big Data Efforts Focused on Gaining Insights from Existing... 
+August 13, 2017 
 
 
  
@@ -84,8 +84,8 @@ April 29, 2020
 
 
 
-Impact of COVID-19 pandemic on Tourism & Aviation industries 
-June 22, 2020 
+How Data Analytics can help your business respond to the impact... 
+May 1, 2021 
 
 
  
@@ -93,8 +93,8 @@ June 22, 2020
 
 
 
-How to increase social media engagement for marketers? 
-August 15, 2020 
+Lessons from the past: Some key learnings relevant to the coronavirus... 
+May 1, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -102,25 +102,25 @@ August 15, 2020
 
 
  
-The Future of Bank Risk Management
+Do All Social Media Is Owned By Meta?
 
  
 
 
 
  
-Steps to Meta-Analysis
+Data Warehouse to Google Data Studio (Looker) Dashboard
 
  
 
 
 
  
-An ETL tool to pull data from Shiphero to Google Bigquery...
+Deploy MERN to google app engine, google cloud platform
 
  
 
 
 
  
-COVID-19 Impact on Hospitality Industry
+IoT & AI/ML Solution for Gas Stations

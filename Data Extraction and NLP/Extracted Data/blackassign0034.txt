@@ -4,7 +4,7 @@ Home  What We Think  Will machine replace the human in the future of work?
 
 Data ScienceAnalyticsArtificial IntelligenceBig DataWhat We Think Will machine replace the human in the future of work?
 
-By Ajay Bidyarthy -   June 24, 2021 15731 
+By Ajay Bidyarthy -   June 24, 2021 15732 
 
 
 
@@ -93,8 +93,8 @@ MOST POPULAR INSIGHTS
 
 
 
-A Leading Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+Descriptive vs Inquisitive vs Predictive Analytics 
+April 4, 2019 
 
 
  
@@ -102,8 +102,8 @@ September 5, 2021
 
 
 
-An ETL solution for an Internet Publishing firm 
-July 26, 2023 
+Rise of Chatbots and its impact on customer support by the... 
+January 2, 2023 
 
 
  
@@ -111,8 +111,8 @@ July 26, 2023
 
 
 
-Centrality Measures & Their Meaning from the Network Graphs 
-April 2, 2021 
+Rise of telemedicine and its Impact on Livelihood by 2040 
+January 2, 2023 
 
 
  
@@ -120,8 +120,8 @@ April 2, 2021
 
 
 
-An agent-based model of a Virtual Power Plant (VPP) 
-September 15, 2022 
+Global Economy effected by Coronavirus 
+April 15, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -129,25 +129,25 @@ September 15, 2022
 
 
  
-IoT & AI/ML Solution for Gas Stations
+How the COVID-19 crisis is redefining jobs and services?
 
  
 
 
 
  
-NFT Data Automation (looksrare), and ETL tool
+Deploy and view React app(Nextjs) on cloud VM such as GCP,...
 
  
 
 
 
  
-Business Analytics In The Healthcare Industry
+Marbles Stimulation using python
 
  
 
 
 
  
-Advanced-Data Analytics, AI, and ML for News and Media Companies
+Rise of OTT platform and its impact on entertainment industry by...

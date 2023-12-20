@@ -4,7 +4,7 @@ Home  What We Think  Estimating the impact of COVID-19 on the world of work
 
 BlackcofferWhat We ThinkHealthcare Estimating the impact of COVID-19 on the world of work
 
-By Ajay Bidyarthy -   May 1, 2020 13435 
+By Ajay Bidyarthy -   May 1, 2020 13436 
 
 
 
@@ -72,8 +72,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Rise of Cybercrime and its Effect in upcoming Future 
-August 18, 2023 
+How Artificial Intelligence can deliver real value to companies? 
+September 19, 2018 
 
 
  
@@ -81,8 +81,8 @@ August 18, 2023
 
 
 
-Impact of Indian Economy due to COVID-19 
-April 12, 2020 
+Sentiment Analysis of a Leading Restaurants Chain in the USA 
+October 5, 2020 
 
 
  
@@ -90,8 +90,8 @@ April 12, 2020
 
 
 
-Controversy as a Marketing Strategy 
-April 28, 2020 
+IoT & AI/ML Solution for Gas Stations 
+January 22, 2020 
 
 
  
@@ -99,8 +99,8 @@ April 28, 2020
 
 
 
-How artificial intelligence can boost your productivity level? 
-August 26, 2021 
+A Leading Hospitality Firm in the USA, Website SEO & Optimization 
+September 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -108,25 +108,25 @@ August 26, 2021
 
 
  
-Structural Equation Modeling (SEM)
+An ETL tool to pull data from Shiphero to Google Bigquery...
 
  
 
 
 
  
-What patients like and dislike about telemedicine?
+E-commerce Store Analysis – Purchase Behavior, Ad Spend, Conversion, Traffic, etc…
 
  
 
 
 
  
-Coronavirus impact on energy markets
+DOW-JONES-INDUSTRIAL-AVERAGE Time series Data Analysis: Analysis and Results of Data
 
  
 
 
 
  
-Easy Access to Performance Metrics – Realtime Dashboard
+Rise of electric vehicle and its impact on livelihood by the...

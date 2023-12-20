@@ -4,7 +4,7 @@ Home  What We Think  All you need to know about online marketing
 
 BlackcofferWhat We Think All you need to know about online marketing
 
-By Ajay Bidyarthy -   May 5, 2021 14491 
+By Ajay Bidyarthy -   May 5, 2021 14492 
 
 
 
@@ -110,8 +110,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Google Data Studio Dashboard for Marketing, ads and Traction data 
-January 16, 2022 
+COVID-19 Vs Indian Economy 
+April 11, 2020 
 
 
  
@@ -119,8 +119,8 @@ January 16, 2022
 
 
 
-Why does your business need a chatbot? 
-September 22, 2020 
+ETL Pipeline 
+October 6, 2019 
 
 
  
@@ -128,8 +128,8 @@ September 22, 2020
 
 
 
-A Leading Firm in the USA, SEO and Website Optimization 
-September 5, 2021 
+Ikiga Data, a Global Careers Data and Insights Platform 
+March 14, 2021 
 
 
  
@@ -137,8 +137,8 @@ September 5, 2021
 
 
 
-Population and Community Survey of America 
-August 22, 2021 
+What is the difference between Artificial Intelligence, Machine Learning, Statistics, and... 
+March 9, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -146,25 +146,25 @@ August 22, 2021
 
 
  
-Meta-Analysis in Healthcare Research
+Predictive Modelling, AI, ML Dashboards in Power BI
 
  
 
 
 
  
-Big Data Problem & Solutions
+Blockchain in Fintech
 
  
 
 
 
  
-How big data & analytics is helping fashion e-tailers to capture...
+ETL and MLOps Infrastructure for Blockchain Analytics
 
  
 
 
 
  
-How Data Analytics and AI are used to halt the COVID-19...
+Car Parking Management System

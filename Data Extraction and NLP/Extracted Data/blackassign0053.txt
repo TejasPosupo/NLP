@@ -4,7 +4,7 @@ Home  What We Think  How Python became the first choice for Data Science.
 
 Data ScienceAnalyticsArtificial IntelligenceBig DataBlackcofferWhat We Think How Python became the first choice for Data Science.
 
-By Ajay Bidyarthy -   March 4, 2021 15372 
+By Ajay Bidyarthy -   March 4, 2021 15374 
 
 
 
@@ -98,8 +98,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Add SPF Record, Cpanel, Bigrock 
-August 17, 2019 
+COVID-19 Impact on Hospitality Industry 
+May 1, 2020 
 
 
  
@@ -107,8 +107,8 @@ August 17, 2019
 
 
 
-Driving Insights from the Largest Community for Investors and Traders 
-October 8, 2020 
+How can Big Data & Analytics change the healthcare sector in... 
+March 15, 2018 
 
 
  
@@ -116,8 +116,8 @@ October 8, 2020
 
 
 
-Oil prices by the year 2040, and how it will impact... 
-August 20, 2022 
+Environmental impact of the COVID-19 pandemic – Lesson for the Future 
+April 30, 2021 
 
 
  
@@ -125,8 +125,8 @@ August 20, 2022
 
 
 
-Mitigating Bank risk management 
-June 1, 2019 
+Negative effects of marketing on society 
+November 19, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -134,25 +134,25 @@ June 1, 2019
 
 
  
-Ikiga Data, a Global Careers Data and Insights Platform
+Code Review Checklist
 
  
 
 
 
  
-What are the challenges, and acceptance of e-learning during the COVID-19...
+Prediction Model for Online Casino
 
  
 
 
 
  
-Data Harmonization, ETL, Data Cleansing, & Classifications
+PPT: Solution to quadratic assignment problems (QAP) using Ant Colony System
 
  
 
 
 
  
-Analytics Advantages in Broadcasting Industry
+Modeling & Simulation for Drug Development & Formulation

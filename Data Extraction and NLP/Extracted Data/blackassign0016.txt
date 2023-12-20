@@ -4,7 +4,7 @@ Home  What We Think  Rise of telemedicine and its Impact on Livelihood by 2040
 
 BlackcofferFutureForecastsWhat We Think Rise of telemedicine and its Impact on Livelihood by 2040
 
-By Ajay Bidyarthy -   January 2, 2023 4876 
+By Ajay Bidyarthy -   January 2, 2023 4877 
 
 
 
@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-What is the chance Homo sapiens will survive for the next... 
-October 22, 2020 
+Azure Data Lake and Power BI Dashboard 
+January 16, 2022 
 
 
  
@@ -95,8 +95,8 @@ October 22, 2020
 
 
 
-Data Analytics as a Tool to Reduce the Cost of Production... 
-February 21, 2018 
+How AI will change the World? 
+May 29, 2021 
 
 
  
@@ -104,8 +104,8 @@ February 21, 2018
 
 
 
-A Leading Firm in the USA, Website SEO & Optimization 
-September 5, 2021 
+Healthcare Data Dashboard in Kibana 
+May 15, 2021 
 
 
  
@@ -113,8 +113,8 @@ September 5, 2021
 
 
 
-How will COVID-19 affect the world of work? 
-April 30, 2020 
+Future of Work: Robot, AI and Automation 
+June 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ April 30, 2020
 
 
  
-Modeling & Simulation for Drug Development & Formulation
+On-Page SEO
 
  
 
 
 
  
-Integration of a product to a cloud-based CRM platform
+A Leading Firm in the USA, SEO and Website Optimization
 
  
 
 
 
  
-Role of Big Data in Healthcare
+AI/ML and Predictive Modeling
 
  
 
 
 
  
-Should people wear fabric gloves? Seeking evidence regarding the differential transfer...
+Portfolio: Website, Dashboard, SaaS Applications, Web Apps

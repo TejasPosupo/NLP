@@ -4,7 +4,7 @@ Home  What We Think  What is the repercussion of the environment due to the COVI
 
 BlackcofferWhat We ThinkHealthcare What is the repercussion of the environment due to the COVID-19 pandemic situation?
 
-By Ajay Bidyarthy -   June 18, 2020 13458 
+By Ajay Bidyarthy -   June 18, 2020 13459 
 
 
 
@@ -86,8 +86,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Rise of e-health and its impact on humans by the year... 
-December 29, 2022 
+OCR (Optical Character Recognition) 
+September 24, 2019 
 
 
  
@@ -95,8 +95,8 @@ December 29, 2022
 
 
 
-Big Data and Analytics to Help form Political Leaders Win Election 
-April 13, 2019 
+What do you think is the lesson (or lessons) to be... 
+March 30, 2020 
 
 
  
@@ -104,8 +104,8 @@ April 13, 2019
 
 
 
-Do Ethnic differences possibly influence the risk of Multiple Sclerosis development... 
-June 4, 2019 
+Marketing Analytics Solution, a Big Data Approach 
+May 1, 2019 
 
 
  
@@ -113,8 +113,8 @@ June 4, 2019
 
 
 
-Estimating the impact of COVID-19 on the world of work 
-May 1, 2020 
+Equity Waterfalls Model-Based SaaS Application for Real Estate Sector 
+July 26, 2023 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -122,25 +122,25 @@ May 1, 2020
 
 
  
-Artificial intelligence in business: Separating the real from the hype
+CRM (Monday.com, Make.com) to Data Warehouse to Klipfolio Dashboard
 
  
 
 
 
  
-Pharmaceutical Data Power BI Report
+Using People Analytics To Drive Business Performance
 
  
 
 
 
  
-Dashboard to track the analytics of the website using Google Analytics...
+Car Detection in Satellite Images
 
  
 
 
 
  
-React Native Apps in the Development Portfolio
+An ETL solution for an Internet Publishing firm

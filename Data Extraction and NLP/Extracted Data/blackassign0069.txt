@@ -4,7 +4,7 @@ Home  What We Think  Can You Be Great Leader Without Technical Expertise
 
 Data ScienceAnalyticsBlackcofferWhat We Think Can You Be Great Leader Without Technical Expertise
 
-By Ajay Bidyarthy -   September 22, 2020 14265 
+By Ajay Bidyarthy -   September 22, 2020 14266 
 
 
 
@@ -65,8 +65,8 @@ MOST POPULAR INSIGHTS
 
 
 
-CRM, Monday.com via Zapier to Power BI Dashboard 
-July 29, 2023 
+Healthcare Data Analysis 
+August 22, 2021 
 
 
  
@@ -74,8 +74,8 @@ July 29, 2023
 
 
 
-The rise of the OTT platform and its impact on the... 
-August 17, 2023 
+How is Login Logout Time Tracking for Employees in Office done... 
+September 28, 2021 
 
 
  
@@ -83,8 +83,8 @@ August 17, 2023
 
 
 
-Design & Develop BERT Question Answering model explanations with visualization 
-September 16, 2022 
+Analytics in Healthcare Industry 
+July 4, 2018 
 
 
  
@@ -92,8 +92,8 @@ September 16, 2022
 
 
 
-Sentiment Analysis of a Leading Restaurants Chain in the USA 
-October 5, 2020 
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance... 
+January 22, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -101,25 +101,25 @@ October 5, 2020
 
 
  
-How does Metaverse work in the Financial sector?
+How to Connect a Domain and Install WordPress on Microsoft Azure
 
  
 
 
 
  
-How Data Analytics can help your business respond to the impact...
+Rise of Cybercrime and its Effect by the Year 2040.
 
  
 
 
 
  
-How Artificial Intelligence can deliver real value to companies?
+Lessons from the past: Some key learnings relevant to the coronavirus...
 
  
 
 
 
  
-Digital Transformation in Oil and Gas
+How are genetic sequencing maps affected by deep learning and AI?

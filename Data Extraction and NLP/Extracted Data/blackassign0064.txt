@@ -4,7 +4,7 @@ Home  What We Think  Will we ever understand the nature of consciousness?
 
 BlackcofferWhat We ThinkEnergy Will we ever understand the nature of consciousness?
 
-By Ajay Bidyarthy -   October 22, 2020 14152 
+By Ajay Bidyarthy -   October 22, 2020 14153 
 
 
 
@@ -95,8 +95,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Interpret the Coefficients in Regression Models 
-April 4, 2019 
+Is Perfection the Greatest enemy of Productivity? 
+August 23, 2020 
 
 
  
@@ -104,8 +104,8 @@ April 4, 2019
 
 
 
-Bank Risk Management in India 
-June 1, 2019 
+Resume Matching & Skill Ranking for a Leading IT Firm in... 
+March 27, 2021 
 
 
  
@@ -113,8 +113,8 @@ June 1, 2019
 
 
 
-Microsoft Azure chatbot with LUIS (Language Understanding) 
-January 24, 2022 
+ETL Pipeline 
+October 6, 2019 
 
 
  
@@ -122,8 +122,8 @@ January 24, 2022
 
 
 
-Coronavirus, the unexpected challenge for the European union 
-March 30, 2020 
+The 8 Steps of AI/ML Project 
+January 14, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -131,25 +131,25 @@ March 30, 2020
 
 
  
-How does Big Data Help in Finance and the Growth of...
+A Leading Musical Instrumental, Website SEO & Optimization
 
  
 
 
 
  
-AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech...
+The workflow of a Machine Learning / Artificial Intelligence project
 
  
 
 
 
  
-Data Warehouse to Google Data Studio (Looker) Dashboard
+AI/ML and Predictive Modeling
 
  
 
 
 
  
-From Utopia to Reality: Marketing and the Big Data Revolution
+Design and develop retool app for wholecell.io and Asana data using...

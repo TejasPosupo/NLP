@@ -4,7 +4,7 @@ Home  What We Think  Evolution of Advertising Industry
 
 BlackcofferWhat We Think Evolution of Advertising Industry
 
-By Ajay Bidyarthy -   May 5, 2021 14418 
+By Ajay Bidyarthy -   May 5, 2021 14419 
 
 
 
@@ -91,8 +91,8 @@ MOST POPULAR INSIGHTS
 
 
 
-An ETL tool to pull data from Shiphero to Google Bigquery... 
-July 29, 2023 
+How Metaverse and VR can reform work culture? 
+February 28, 2022 
 
 
  
@@ -100,8 +100,8 @@ July 29, 2023
 
 
 
-Big Data & Analytics to Bring Transparency and Good Governance 
-April 19, 2019 
+Rise of e-health and its impact on humans by the year... 
+January 2, 2023 
 
 
  
@@ -109,8 +109,8 @@ April 19, 2019
 
 
 
-Sentiment Analysis of a Leading Restaurants Chain in the USA 
-October 5, 2020 
+Rise of e-health and its impact on humans by the year... 
+December 29, 2022 
 
 
  
@@ -118,8 +118,8 @@ October 5, 2020
 
 
 
-The Future of Telehealth Services 
-April 28, 2022 
+Behavior Based Chi-Square model to Detect Data-Exfiltration over the Network 
+May 15, 2017 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -127,25 +127,25 @@ April 28, 2022
 
 
  
-How Data Analytics can help your business respond to the impact...
+Qualtrics API integration using Python
 
  
 
 
 
  
-Realtime Video Analytics
+Integrating and Deriving Insights from the Cost of Equity
 
  
 
 
 
  
-Impact of Indian Economy due to COVID-19
+From Utopia to Reality: Marketing and the Big Data Revolution
 
  
 
 
 
  
-Future of Work: How AI Has Entered the Workplace
+Rise of Cybercrime and its Effect by the Year 2040.

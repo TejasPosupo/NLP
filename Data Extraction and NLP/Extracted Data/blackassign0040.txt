@@ -4,7 +4,7 @@ Home  What We Think  How Machines, AI, Automations, and Robo-human are Effective
 
 Data ScienceAnalyticsArtificial IntelligenceBig DataWhat We Think How Machines, AI, Automations, and Robo-human are Effective in Finance and Banking?
 
-By Ajay Bidyarthy -   May 29, 2021 14573 
+By Ajay Bidyarthy -   May 29, 2021 14574 
 
 
 
@@ -96,8 +96,8 @@ MOST POPULAR INSIGHTS
 
 
 
-The Emergence of Data Analytics 
-January 11, 2019 
+What Jobs Will Robots Take From Humans in The Future? 
+June 25, 2021 
 
 
  
@@ -105,8 +105,8 @@ January 11, 2019
 
 
 
-How Metaverse will change your life? 
-February 3, 2022 
+Obstacles to data-driven Healthcare 
+July 19, 2019 
 
 
  
@@ -114,8 +114,8 @@ February 3, 2022
 
 
 
-An ETL solution for an Internet Publishing firm 
-July 26, 2023 
+Pharmaceutical Data Power BI Report 
+March 14, 2021 
 
 
  
@@ -123,8 +123,8 @@ July 26, 2023
 
 
 
-Rising IT cities and its impact on the economy, environment, infrastructure,... 
-August 24, 2023 
+Future of Work: How AI Has Entered the Workplace 
+May 28, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -132,25 +132,25 @@ August 24, 2023
 
 
  
-New Jersey Based Micro Business Sentiment Analysis
+How are genetic sequencing maps affected by deep learning and AI?
 
  
 
 
 
  
-Python model for the analysis of sector-specific stock ETFs for investment...
+What do you think is the lesson (or lessons) to be...
 
  
 
 
 
  
-Will AI Replace Us or Work With Us?
+How marketers can start integrating AI in their work
 
  
 
 
 
  
-Estimating the impact of COVID-19 on the world of work
+Data Transformation

@@ -4,7 +4,7 @@ Home  What We Think  How Robo Human will Impact the Future?
 
 Data ScienceArtificial IntelligenceMachine LearningWhat We Think How Robo Human will Impact the Future?
 
-By Ajay Bidyarthy -   May 29, 2021 15553 
+By Ajay Bidyarthy -   May 29, 2021 15554 
 
 
 
@@ -83,8 +83,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Gaming Disorder and Effects of Gaming on Health. 
-June 17, 2020 
+Big Data Integration & Infrastructure Solution 
+November 5, 2018 
 
 
  
@@ -92,26 +92,26 @@ June 17, 2020
 
 
 
-Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio) 
+Rise of telemedicine and its Impact on Livelihood by 2040 
+January 2, 2023 
+
+
+ 
+
+
+
+
+Statistical Methods for Sales Forecasting in Retail Industry 
+May 24, 2017 
+
+
+ 
+
+
+
+
+AI and NLP-based Solutions to Automate Data Discovery for Venture Capital... 
 July 26, 2023 
-
-
- 
-
-
-
-
-MisesBot Activate – Markov Chain, Text Generator 
-March 14, 2021 
-
-
- 
-
-
-
-
-How are genetic sequencing maps affected by deep learning and AI? 
-August 26, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -119,25 +119,25 @@ August 26, 2021
 
 
  
-KPI Dashboard for Accountants
+AI-Based Algorithmic Trading Bot for Forex
 
  
 
 
 
  
-How big data & analytics is helping fashion e-tailers to capture...
+How Coronavirus Impact on the Hospitality Industry
 
  
 
 
 
  
-Coronavirus, the unexpected challenge for the European union
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio)
 
  
 
 
 
  
-Role of Big Data in Cyber Security: A Shotgun Against Rising...
+Optimize the data scraper program to easily accommodate large files and...

@@ -4,7 +4,7 @@ Home  What We Think  Embedding care robots into society and practice: Socio-tech
 
 Data ScienceArtificial IntelligenceBlackcofferWhat We ThinkFuture Embedding care robots into society and practice: Socio-technical considerations
 
-By Ajay Bidyarthy -   December 2, 2020 14138 
+By Ajay Bidyarthy -   December 2, 2020 14139 
 
 
 
@@ -66,8 +66,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Are we any closer to preventing a nuclear holocaust? 
-October 23, 2020 
+Data Analytics as a Tool to Reduce the Cost of Production... 
+February 21, 2018 
 
 
  
@@ -75,8 +75,8 @@ October 23, 2020
 
 
 
-Advantages and Disadvantages of E-learning during the COVID-19 for students and... 
-December 7, 2021 
+How Data Analytics and AI are used to halt the COVID-19... 
+April 30, 2021 
 
 
  
@@ -84,8 +84,8 @@ December 7, 2021
 
 
 
-The impact of the Metaverse on financial services 
-February 28, 2022 
+How Metaverse is Shaping the Future? 
+January 17, 2022 
 
 
  
@@ -93,8 +93,8 @@ February 28, 2022
 
 
 
-AI, ML, and IoT driven Entry Management and Monitoring 
-June 19, 2020 
+Making a robust way to sync data from airtables to mongoDB... 
+May 13, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -102,25 +102,25 @@ June 19, 2020
 
 
  
-NLP-based Approach for Data Transformation
+How to overcome your fear of making mistakes?
 
  
 
 
 
  
-A Leading Firm in the USA, SEO and Website Optimization
+Student Database Management System
 
  
 
 
 
  
-How prepared is India to tackle a possible COVID-19 outbreak?
+Coronavirus, the unexpected challenge for the European union
 
  
 
 
 
  
-Turn Your Website Analytics into Actionable Insights & Decisions Using Neo4J...
+Playstore & Appstore to Google Analytics (GA) or Firebase to Google...

@@ -4,7 +4,7 @@ Home  What We Think  Will technology eliminate the need for animal testing in dr
 
 BlackcofferHealthcarePharmaceuticals, Biotechnology & Life SciencesWhat We Think Will technology eliminate the need for animal testing in drug development?
 
-By Ajay Bidyarthy -   October 22, 2020 14179 
+By Ajay Bidyarthy -   October 22, 2020 14180 
 
 
 
@@ -72,8 +72,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Structural Equation Modeling (SEM) 
-April 12, 2019 
+Google Data Studio Pipeline with GCP/MySQL 
+September 18, 2021 
 
 
  
@@ -81,8 +81,8 @@ April 12, 2019
 
 
 
-AI Solutions for Foreign Exchange – An Automated Algo Trading Tool 
-July 24, 2023 
+Role of big data & analytics in banking and finance 
+June 1, 2019 
 
 
  
@@ -90,8 +90,8 @@ July 24, 2023
 
 
 
-Analyze Fraudulent Call Data with Stream Analytics and Visualize Results in... 
-March 16, 2021 
+How AI will change the World? 
+May 29, 2021 
 
 
  
@@ -99,8 +99,8 @@ March 16, 2021
 
 
 
-Should celebrities be allowed to join politics? 
-April 16, 2020 
+Lipsync Automation for Celebrities and Influencers 
+September 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -108,25 +108,25 @@ April 16, 2020
 
 
  
-MetaBridges API Decentraland Integration – AR, VR
+Statistical Data Analysis of Reinforced Concrete
 
  
 
 
 
  
-Google Data Studio Pipeline with GCP/MySQL
+Creating a custom report and dashboard using the data got from...
 
  
 
 
 
  
-Integrating and Deriving Insights from the Cost of Equity
+Central School System Logistics Optimization
 
  
 
 
 
  
-Big Data Problem & Solutions
+What is the chance Homo sapiens will survive for the next...

@@ -4,7 +4,7 @@ Home  What We Think  Rise of OTT platform and its impact on entertainment indust
 
 BFSIAsset and PortfolioBlackcofferCapital MarketsWhat We Think Rise of OTT platform and its impact on entertainment industry by the year 2030
 
-By Ajay Bidyarthy -   October 17, 2022 4606 
+By Ajay Bidyarthy -   October 17, 2022 4607 
 
 
 
@@ -68,8 +68,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Healthcare Data Dashboard in Kibana 
-May 15, 2021 
+Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion 
+June 26, 2019 
 
 
  
@@ -77,8 +77,8 @@ May 15, 2021
 
 
 
-Coronavirus: Impact on the Hospitality Industry 
-May 1, 2020 
+How Voice search makes your business a successful business. 
+July 29, 2020 
 
 
  
@@ -86,8 +86,8 @@ May 1, 2020
 
 
 
-How we forecast future technologies? 
-January 13, 2021 
+Ad Networks Marketing Campaign Data Dashboard in Looker (Google Data Studio) 
+July 26, 2023 
 
 
  
@@ -95,8 +95,8 @@ January 13, 2021
 
 
 
-Budget, Sales KPI Dashboard using Power BI 
-July 29, 2021 
+INDUSTRIAL REVOLUTION 4.0 – PROS AND CONS 
+April 10, 2020 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -104,25 +104,25 @@ July 29, 2021
 
 
  
-Transforming Insurance Claim Processing with Automation & Artificial Intelligence
+Which one is better AI or big data?
 
  
 
 
 
  
-The Emergence of Data Analytics
+Pharmaceutical Data Power BI Report
 
  
 
 
 
  
-Datawarehouse, and Recommendations Engine for AirBNB
+Data Driven Dashboards, Foundation and Application in Industry
 
  
 
 
 
  
-Playstore & Appstore to Google Analytics (GA) or Firebase to Google...
+Power BI integration with RestAPI, and SAML Integration

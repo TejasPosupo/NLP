@@ -4,7 +4,7 @@ Home  What We Think  How to overcome your fear of making mistakes?
 
 BlackcofferBFSIDerivatives and SecuritiesWhat We Think How to overcome your fear of making mistakes?
 
-By Ajay Bidyarthy -   August 20, 2020 14113 
+By Ajay Bidyarthy -   August 20, 2020 14114 
 
 
 
@@ -82,8 +82,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Data Integration for Marketers 
-November 7, 2019 
+Marketing Analytics Solution, a Big Data Approach 
+May 1, 2019 
 
 
  
@@ -91,8 +91,8 @@ November 7, 2019
 
 
 
-Car Detection in Satellite Images 
-July 21, 2023 
+Should people wear fabric gloves? Seeking evidence regarding the differential transfer... 
+March 30, 2020 
 
 
  
@@ -100,8 +100,8 @@ July 21, 2023
 
 
 
-How you lead a project or a team without any technical... 
-September 22, 2020 
+Big Data Analytic in Construction & Real Estate 
+June 20, 2019 
 
 
  
@@ -109,8 +109,8 @@ September 22, 2020
 
 
 
-Deploy and view React app(Nextjs) on cloud VM such as GCP,... 
-August 8, 2023 
+How Telehealth and Telemedicine helping people to fight against COVID-19 
+April 28, 2022 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -118,25 +118,25 @@ August 8, 2023
 
 
  
-Challenges and Opportunities of Big Data in Healthcare
+How advertisement increase your market value?
 
  
 
 
 
  
-An ETL tool to pull data from Shiphero to Google Bigquery...
+Big Data & Analytics to Help Voters Know Their Political Leaders
 
  
 
 
 
  
-Entertainment Music Player User Analytics and Recommendations
+Big Data and Analytics to Help form Political Leaders Win Election
 
  
 
 
 
  
-AI and its impact on the Fashion Industry
+Data Analytics as a Tool to Reduce the Cost of Production...

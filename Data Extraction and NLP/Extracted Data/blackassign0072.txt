@@ -4,7 +4,7 @@ Home  What We Think  Is Perfection the Greatest enemy of Productivity?
 
 Data ScienceAnalyticsBlackcofferWhat We Think Is Perfection the Greatest enemy of Productivity?
 
-By Ajay Bidyarthy -   August 23, 2020 13700 
+By Ajay Bidyarthy -   August 23, 2020 13701 
 
 
 
@@ -84,8 +84,8 @@ MOST POPULAR INSIGHTS
 
 
 
-Marketing Ads Leads Call Status Data Tool to BigQuery 
-August 30, 2021 
+Evaluating Logistic Regression Models 
+December 31, 2019 
 
 
  
@@ -93,8 +93,8 @@ August 30, 2021
 
 
 
-Marketing Drives Results With A Focus On Problems 
-November 25, 2019 
+Data Harmonization, ETL, Data Cleansing, & Classifications 
+November 7, 2019 
 
 
  
@@ -102,8 +102,8 @@ November 25, 2019
 
 
 
-Problems faced by students in online classes during COVID-19 
-December 7, 2021 
+Financial Modeling of the Investment Management Professionals 
+August 23, 2020 
 
 
  
@@ -111,8 +111,8 @@ December 7, 2021
 
 
 
-Impact of COVID-19 pandemic on office space and co-working industries. 
-June 18, 2020 
+Prediction Model for Online Casino 
+April 5, 2021 
 
 
  Load more RECOMMENDED INSIGHTS
@@ -120,25 +120,25 @@ June 18, 2020
 
 
  
-Steps to Meta-Analysis
+Data Transformation
 
  
 
 
 
  
-Elastic Kibana Specialist to Create Dashboard & Visualization
+Design and develop retool app for wholecell.io and Asana data using...
 
  
 
 
 
  
-Role of Big Data in Academia
+React Native Apps in the Development Portfolio
 
  
 
 
 
  
-Medical Classification
+Power BI Data-Driven Map Dashboard
